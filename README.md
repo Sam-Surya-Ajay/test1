@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0792-binary-search](https://github.com/Sam-Surya-Ajay/test1/tree/master/0792-binary-search) |
+| [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Sam-Surya-Ajay/test1/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/Sam-Surya-Ajay/test1/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 # Math
 |  |
@@ -22,3 +23,15 @@
 |  |
 | ------- |
 | [0792-binary-search](https://github.com/Sam-Surya-Ajay/test1/tree/master/0792-binary-search) |
+# Greedy
+|  |
+| ------- |
+| [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Sam-Surya-Ajay/test1/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
+# Sorting
+|  |
+| ------- |
+| [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Sam-Surya-Ajay/test1/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Sam-Surya-Ajay/test1/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
