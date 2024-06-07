@@ -4,6 +4,7 @@
 # Array
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Sam-Surya-Ajay/test1/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/Sam-Surya-Ajay/test1/tree/master/0792-binary-search) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Sam-Surya-Ajay/test1/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2902-max-pair-sum-in-an-array](https://github.com/Sam-Surya-Ajay/test1/tree/master/2902-max-pair-sum-in-an-array) |
@@ -23,6 +24,7 @@
 # Binary Search
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Sam-Surya-Ajay/test1/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/Sam-Surya-Ajay/test1/tree/master/0792-binary-search) |
 # Greedy
 |  |
@@ -31,6 +33,7 @@
 # Sorting
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Sam-Surya-Ajay/test1/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Sam-Surya-Ajay/test1/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 # Heap (Priority Queue)
 |  |
@@ -39,4 +42,9 @@
 # Hash Table
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Sam-Surya-Ajay/test1/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2902-max-pair-sum-in-an-array](https://github.com/Sam-Surya-Ajay/test1/tree/master/2902-max-pair-sum-in-an-array) |
+# Two Pointers
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Sam-Surya-Ajay/test1/tree/master/0350-intersection-of-two-arrays-ii) |
