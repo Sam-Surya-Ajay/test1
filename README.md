@@ -8,6 +8,7 @@
 | [0495-teemo-attacking](https://github.com/Sam-Surya-Ajay/test1/tree/master/0495-teemo-attacking) |
 | [0697-degree-of-an-array](https://github.com/Sam-Surya-Ajay/test1/tree/master/0697-degree-of-an-array) |
 | [0792-binary-search](https://github.com/Sam-Surya-Ajay/test1/tree/master/0792-binary-search) |
+| [1760-check-array-formation-through-concatenation](https://github.com/Sam-Surya-Ajay/test1/tree/master/1760-check-array-formation-through-concatenation) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Sam-Surya-Ajay/test1/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2902-max-pair-sum-in-an-array](https://github.com/Sam-Surya-Ajay/test1/tree/master/2902-max-pair-sum-in-an-array) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/Sam-Surya-Ajay/test1/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
@@ -47,6 +48,7 @@
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sam-Surya-Ajay/test1/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0697-degree-of-an-array](https://github.com/Sam-Surya-Ajay/test1/tree/master/0697-degree-of-an-array) |
+| [1760-check-array-formation-through-concatenation](https://github.com/Sam-Surya-Ajay/test1/tree/master/1760-check-array-formation-through-concatenation) |
 | [2902-max-pair-sum-in-an-array](https://github.com/Sam-Surya-Ajay/test1/tree/master/2902-max-pair-sum-in-an-array) |
 # Two Pointers
 |  |
