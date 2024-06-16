@@ -6,6 +6,7 @@
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sam-Surya-Ajay/test1/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0495-teemo-attacking](https://github.com/Sam-Surya-Ajay/test1/tree/master/0495-teemo-attacking) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Sam-Surya-Ajay/test1/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0697-degree-of-an-array](https://github.com/Sam-Surya-Ajay/test1/tree/master/0697-degree-of-an-array) |
 | [0792-binary-search](https://github.com/Sam-Surya-Ajay/test1/tree/master/0792-binary-search) |
 | [1760-check-array-formation-through-concatenation](https://github.com/Sam-Surya-Ajay/test1/tree/master/1760-check-array-formation-through-concatenation) |
@@ -48,6 +49,7 @@
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sam-Surya-Ajay/test1/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Sam-Surya-Ajay/test1/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0697-degree-of-an-array](https://github.com/Sam-Surya-Ajay/test1/tree/master/0697-degree-of-an-array) |
 | [1760-check-array-formation-through-concatenation](https://github.com/Sam-Surya-Ajay/test1/tree/master/1760-check-array-formation-through-concatenation) |
 | [2902-max-pair-sum-in-an-array](https://github.com/Sam-Surya-Ajay/test1/tree/master/2902-max-pair-sum-in-an-array) |
@@ -55,3 +57,7 @@
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sam-Surya-Ajay/test1/tree/master/0350-intersection-of-two-arrays-ii) |
+# String
+|  |
+| ------- |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Sam-Surya-Ajay/test1/tree/master/0599-minimum-index-sum-of-two-lists) |
