@@ -6,6 +6,7 @@
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sam-Surya-Ajay/test1/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0495-teemo-attacking](https://github.com/Sam-Surya-Ajay/test1/tree/master/0495-teemo-attacking) |
+| [0594-longest-harmonious-subsequence](https://github.com/Sam-Surya-Ajay/test1/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Sam-Surya-Ajay/test1/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0697-degree-of-an-array](https://github.com/Sam-Surya-Ajay/test1/tree/master/0697-degree-of-an-array) |
 | [0792-binary-search](https://github.com/Sam-Surya-Ajay/test1/tree/master/0792-binary-search) |
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sam-Surya-Ajay/test1/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/Sam-Surya-Ajay/test1/tree/master/0594-longest-harmonious-subsequence) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Sam-Surya-Ajay/test1/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 # Heap (Priority Queue)
 |  |
@@ -50,6 +52,7 @@
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sam-Surya-Ajay/test1/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/Sam-Surya-Ajay/test1/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Sam-Surya-Ajay/test1/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0697-degree-of-an-array](https://github.com/Sam-Surya-Ajay/test1/tree/master/0697-degree-of-an-array) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Sam-Surya-Ajay/test1/tree/master/0990-verifying-an-alien-dictionary) |
@@ -64,3 +67,11 @@
 | ------- |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Sam-Surya-Ajay/test1/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Sam-Surya-Ajay/test1/tree/master/0990-verifying-an-alien-dictionary) |
+# Sliding Window
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Sam-Surya-Ajay/test1/tree/master/0594-longest-harmonious-subsequence) |
+# Counting
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Sam-Surya-Ajay/test1/tree/master/0594-longest-harmonious-subsequence) |
