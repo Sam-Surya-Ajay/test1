@@ -12,6 +12,7 @@
 | [0792-binary-search](https://github.com/Sam-Surya-Ajay/test1/tree/master/0792-binary-search) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Sam-Surya-Ajay/test1/tree/master/0990-verifying-an-alien-dictionary) |
 | [1760-check-array-formation-through-concatenation](https://github.com/Sam-Surya-Ajay/test1/tree/master/1760-check-array-formation-through-concatenation) |
+| [1975-minimum-distance-to-the-target-element](https://github.com/Sam-Surya-Ajay/test1/tree/master/1975-minimum-distance-to-the-target-element) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Sam-Surya-Ajay/test1/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Sam-Surya-Ajay/test1/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2902-max-pair-sum-in-an-array](https://github.com/Sam-Surya-Ajay/test1/tree/master/2902-max-pair-sum-in-an-array) |
