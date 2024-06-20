@@ -12,6 +12,7 @@
 | [0792-binary-search](https://github.com/Sam-Surya-Ajay/test1/tree/master/0792-binary-search) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Sam-Surya-Ajay/test1/tree/master/0990-verifying-an-alien-dictionary) |
 | [1287-distance-between-bus-stops](https://github.com/Sam-Surya-Ajay/test1/tree/master/1287-distance-between-bus-stops) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Sam-Surya-Ajay/test1/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1760-check-array-formation-through-concatenation](https://github.com/Sam-Surya-Ajay/test1/tree/master/1760-check-array-formation-through-concatenation) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/Sam-Surya-Ajay/test1/tree/master/1975-minimum-distance-to-the-target-element) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Sam-Surya-Ajay/test1/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -25,11 +26,13 @@
 # Matrix
 |  |
 | ------- |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Sam-Surya-Ajay/test1/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/Sam-Surya-Ajay/test1/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 # Simulation
 |  |
 | ------- |
 | [0495-teemo-attacking](https://github.com/Sam-Surya-Ajay/test1/tree/master/0495-teemo-attacking) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Sam-Surya-Ajay/test1/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/Sam-Surya-Ajay/test1/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 # Binary Search
 |  |
@@ -58,6 +61,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Sam-Surya-Ajay/test1/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0697-degree-of-an-array](https://github.com/Sam-Surya-Ajay/test1/tree/master/0697-degree-of-an-array) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Sam-Surya-Ajay/test1/tree/master/0990-verifying-an-alien-dictionary) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Sam-Surya-Ajay/test1/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1760-check-array-formation-through-concatenation](https://github.com/Sam-Surya-Ajay/test1/tree/master/1760-check-array-formation-through-concatenation) |
 | [2902-max-pair-sum-in-an-array](https://github.com/Sam-Surya-Ajay/test1/tree/master/2902-max-pair-sum-in-an-array) |
 # Two Pointers
