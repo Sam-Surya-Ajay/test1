@@ -88,3 +88,14 @@
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Sam-Surya-Ajay/test1/tree/master/0594-longest-harmonious-subsequence) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Sam-Surya-Ajay/test1/tree/master/0745-find-smallest-letter-greater-than-target) |
+## Binary Search
+|  |
+| ------- |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Sam-Surya-Ajay/test1/tree/master/0745-find-smallest-letter-greater-than-target) |
+<!---LeetCode Topics End-->
