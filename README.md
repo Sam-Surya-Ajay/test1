@@ -94,8 +94,13 @@
 |  |
 | ------- |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Sam-Surya-Ajay/test1/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [1168-duplicate-zeros](https://github.com/Sam-Surya-Ajay/test1/tree/master/1168-duplicate-zeros) |
 ## Binary Search
 |  |
 | ------- |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Sam-Surya-Ajay/test1/tree/master/0745-find-smallest-letter-greater-than-target) |
+## Two Pointers
+|  |
+| ------- |
+| [1168-duplicate-zeros](https://github.com/Sam-Surya-Ajay/test1/tree/master/1168-duplicate-zeros) |
 <!---LeetCode Topics End-->
