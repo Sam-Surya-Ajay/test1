@@ -95,6 +95,7 @@
 | ------- |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Sam-Surya-Ajay/test1/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1168-duplicate-zeros](https://github.com/Sam-Surya-Ajay/test1/tree/master/1168-duplicate-zeros) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Sam-Surya-Ajay/test1/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 ## Binary Search
 |  |
 | ------- |
@@ -103,4 +104,12 @@
 |  |
 | ------- |
 | [1168-duplicate-zeros](https://github.com/Sam-Surya-Ajay/test1/tree/master/1168-duplicate-zeros) |
+## Hash Table
+|  |
+| ------- |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Sam-Surya-Ajay/test1/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+## Matrix
+|  |
+| ------- |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Sam-Surya-Ajay/test1/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 <!---LeetCode Topics End-->
