@@ -1,23 +1,28 @@
-class Solution {
+class Solution 
+{
 public:
-    int getMaximumGenerated(int n) {
-        if (n == 0) return 0;
+    int getMaximumGenerated(int n) 
+    {
+        if (n == 0) 
+           return 0;
+        if (n == 1) 
+           return 1;
         
-        vector<int> nums(n + 1);
+        vector<int> nums(n+1,0);
         nums[0] = 0;
-        if (n >= 1) nums[1] = 1;
+        nums[1] = 1;
         
-        int maxi = nums[1]; // Start with the value of nums[1]
-        
-        for (int i = 1; i <= n; ++i) {
-            if (2 * i <= n)
-                nums[2 * i] = nums[i];
-            if (2 * i + 1 <= n)
-                nums[2 * i + 1] = nums[i] + (2 * i + 1 <= n ? nums[i + 1] : 0);
-            
-            maxi = max(maxi, nums[i]);
+        for(int i=1; i<(int)(n+1)/2; i++)
+        {
+            nums[2 * i] = nums[i];
+            nums[2 * i + 1] = nums[i] + nums[i + 1];
         }
-        
+
+        int maxi=INT_MIN;
+        for(int i=0; i<nums.size(); i++)
+        {
+            maxi=max(maxi,nums[i]);
+        }
         return maxi;
     }
 };
