@@ -105,6 +105,7 @@
 | [2486-most-frequent-even-element](https://github.com/Sam-Surya-Ajay/test1/tree/master/2486-most-frequent-even-element) |
 | [2518-the-employee-that-worked-on-the-longest-task](https://github.com/Sam-Surya-Ajay/test1/tree/master/2518-the-employee-that-worked-on-the-longest-task) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/Sam-Surya-Ajay/test1/tree/master/2536-determine-if-two-events-have-conflict) |
+| [2831-number-of-beautiful-pairs](https://github.com/Sam-Surya-Ajay/test1/tree/master/2831-number-of-beautiful-pairs) |
 | [3398-make-a-square-with-the-same-color](https://github.com/Sam-Surya-Ajay/test1/tree/master/3398-make-a-square-with-the-same-color) |
 ## Binary Search
 |  |
@@ -120,6 +121,7 @@
 | ------- |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Sam-Surya-Ajay/test1/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2486-most-frequent-even-element](https://github.com/Sam-Surya-Ajay/test1/tree/master/2486-most-frequent-even-element) |
+| [2831-number-of-beautiful-pairs](https://github.com/Sam-Surya-Ajay/test1/tree/master/2831-number-of-beautiful-pairs) |
 ## Matrix
 |  |
 | ------- |
@@ -146,8 +148,17 @@
 |  |
 | ------- |
 | [2486-most-frequent-even-element](https://github.com/Sam-Surya-Ajay/test1/tree/master/2486-most-frequent-even-element) |
+| [2831-number-of-beautiful-pairs](https://github.com/Sam-Surya-Ajay/test1/tree/master/2831-number-of-beautiful-pairs) |
 ## Simulation
 |  |
 | ------- |
 | [1769-get-maximum-in-generated-array](https://github.com/Sam-Surya-Ajay/test1/tree/master/1769-get-maximum-in-generated-array) |
+## Math
+|  |
+| ------- |
+| [2831-number-of-beautiful-pairs](https://github.com/Sam-Surya-Ajay/test1/tree/master/2831-number-of-beautiful-pairs) |
+## Number Theory
+|  |
+| ------- |
+| [2831-number-of-beautiful-pairs](https://github.com/Sam-Surya-Ajay/test1/tree/master/2831-number-of-beautiful-pairs) |
 <!---LeetCode Topics End-->
