@@ -1,6 +1,16 @@
 class Solution 
 {
 public:
+    int gcdt(int x, int y)
+    {
+        while(y!=0)
+        {
+            int temp=y;
+            y=x%y;
+            x=temp;
+        }
+        return x;
+    }
     int countBeautifulPairs(vector<int>& nums) 
     {
         int ans=0;
@@ -12,7 +22,7 @@ public:
                 int firstdigit=to_string(nums[i])[0] - '0';
                 int lastdigit=nums[j]%10;
 
-                if(gcd(firstdigit, lastdigit)==1)
+                if(gcdt(firstdigit, lastdigit)==1)
                     ans++;
             }
         }
