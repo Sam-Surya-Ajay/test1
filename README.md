@@ -101,6 +101,7 @@
 | [1168-duplicate-zeros](https://github.com/Sam-Surya-Ajay/test1/tree/master/1168-duplicate-zeros) |
 | [1769-get-maximum-in-generated-array](https://github.com/Sam-Surya-Ajay/test1/tree/master/1769-get-maximum-in-generated-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Sam-Surya-Ajay/test1/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Sam-Surya-Ajay/test1/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Sam-Surya-Ajay/test1/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2486-most-frequent-even-element](https://github.com/Sam-Surya-Ajay/test1/tree/master/2486-most-frequent-even-element) |
 | [2518-the-employee-that-worked-on-the-longest-task](https://github.com/Sam-Surya-Ajay/test1/tree/master/2518-the-employee-that-worked-on-the-longest-task) |
@@ -119,6 +120,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Sam-Surya-Ajay/test1/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Sam-Surya-Ajay/test1/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2486-most-frequent-even-element](https://github.com/Sam-Surya-Ajay/test1/tree/master/2486-most-frequent-even-element) |
 | [2831-number-of-beautiful-pairs](https://github.com/Sam-Surya-Ajay/test1/tree/master/2831-number-of-beautiful-pairs) |
@@ -161,4 +163,8 @@
 |  |
 | ------- |
 | [2831-number-of-beautiful-pairs](https://github.com/Sam-Surya-Ajay/test1/tree/master/2831-number-of-beautiful-pairs) |
+## Prefix Sum
+|  |
+| ------- |
+| [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Sam-Surya-Ajay/test1/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 <!---LeetCode Topics End-->
