@@ -97,6 +97,7 @@
 | [0228-summary-ranges](https://github.com/Sam-Surya-Ajay/test1/tree/master/0228-summary-ranges) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Sam-Surya-Ajay/test1/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Sam-Surya-Ajay/test1/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [1039-find-the-town-judge](https://github.com/Sam-Surya-Ajay/test1/tree/master/1039-find-the-town-judge) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Sam-Surya-Ajay/test1/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1168-duplicate-zeros](https://github.com/Sam-Surya-Ajay/test1/tree/master/1168-duplicate-zeros) |
 | [1769-get-maximum-in-generated-array](https://github.com/Sam-Surya-Ajay/test1/tree/master/1769-get-maximum-in-generated-array) |
@@ -120,6 +121,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [1039-find-the-town-judge](https://github.com/Sam-Surya-Ajay/test1/tree/master/1039-find-the-town-judge) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Sam-Surya-Ajay/test1/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Sam-Surya-Ajay/test1/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2486-most-frequent-even-element](https://github.com/Sam-Surya-Ajay/test1/tree/master/2486-most-frequent-even-element) |
@@ -167,4 +169,8 @@
 |  |
 | ------- |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Sam-Surya-Ajay/test1/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+## Graph
+|  |
+| ------- |
+| [1039-find-the-town-judge](https://github.com/Sam-Surya-Ajay/test1/tree/master/1039-find-the-town-judge) |
 <!---LeetCode Topics End-->
