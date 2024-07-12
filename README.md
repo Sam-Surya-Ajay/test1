@@ -108,6 +108,7 @@
 | [2518-the-employee-that-worked-on-the-longest-task](https://github.com/Sam-Surya-Ajay/test1/tree/master/2518-the-employee-that-worked-on-the-longest-task) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/Sam-Surya-Ajay/test1/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2831-number-of-beautiful-pairs](https://github.com/Sam-Surya-Ajay/test1/tree/master/2831-number-of-beautiful-pairs) |
+| [2892-check-if-array-is-good](https://github.com/Sam-Surya-Ajay/test1/tree/master/2892-check-if-array-is-good) |
 | [3398-make-a-square-with-the-same-color](https://github.com/Sam-Surya-Ajay/test1/tree/master/3398-make-a-square-with-the-same-color) |
 ## Binary Search
 |  |
@@ -126,6 +127,7 @@
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Sam-Surya-Ajay/test1/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2486-most-frequent-even-element](https://github.com/Sam-Surya-Ajay/test1/tree/master/2486-most-frequent-even-element) |
 | [2831-number-of-beautiful-pairs](https://github.com/Sam-Surya-Ajay/test1/tree/master/2831-number-of-beautiful-pairs) |
+| [2892-check-if-array-is-good](https://github.com/Sam-Surya-Ajay/test1/tree/master/2892-check-if-array-is-good) |
 ## Matrix
 |  |
 | ------- |
@@ -144,6 +146,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Sam-Surya-Ajay/test1/tree/master/0088-merge-sorted-array) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Sam-Surya-Ajay/test1/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [2892-check-if-array-is-good](https://github.com/Sam-Surya-Ajay/test1/tree/master/2892-check-if-array-is-good) |
 ## String
 |  |
 | ------- |
