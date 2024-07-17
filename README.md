@@ -110,6 +110,7 @@
 | [2536-determine-if-two-events-have-conflict](https://github.com/Sam-Surya-Ajay/test1/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Sam-Surya-Ajay/test1/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [2694-find-the-maximum-divisibility-score](https://github.com/Sam-Surya-Ajay/test1/tree/master/2694-find-the-maximum-divisibility-score) |
+| [2791-find-the-losers-of-the-circular-game](https://github.com/Sam-Surya-Ajay/test1/tree/master/2791-find-the-losers-of-the-circular-game) |
 | [2831-number-of-beautiful-pairs](https://github.com/Sam-Surya-Ajay/test1/tree/master/2831-number-of-beautiful-pairs) |
 | [2892-check-if-array-is-good](https://github.com/Sam-Surya-Ajay/test1/tree/master/2892-check-if-array-is-good) |
 | [3398-make-a-square-with-the-same-color](https://github.com/Sam-Surya-Ajay/test1/tree/master/3398-make-a-square-with-the-same-color) |
@@ -130,6 +131,7 @@
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Sam-Surya-Ajay/test1/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Sam-Surya-Ajay/test1/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2486-most-frequent-even-element](https://github.com/Sam-Surya-Ajay/test1/tree/master/2486-most-frequent-even-element) |
+| [2791-find-the-losers-of-the-circular-game](https://github.com/Sam-Surya-Ajay/test1/tree/master/2791-find-the-losers-of-the-circular-game) |
 | [2831-number-of-beautiful-pairs](https://github.com/Sam-Surya-Ajay/test1/tree/master/2831-number-of-beautiful-pairs) |
 | [2892-check-if-array-is-good](https://github.com/Sam-Surya-Ajay/test1/tree/master/2892-check-if-array-is-good) |
 ## Matrix
@@ -166,6 +168,7 @@
 |  |
 | ------- |
 | [1769-get-maximum-in-generated-array](https://github.com/Sam-Surya-Ajay/test1/tree/master/1769-get-maximum-in-generated-array) |
+| [2791-find-the-losers-of-the-circular-game](https://github.com/Sam-Surya-Ajay/test1/tree/master/2791-find-the-losers-of-the-circular-game) |
 ## Math
 |  |
 | ------- |
