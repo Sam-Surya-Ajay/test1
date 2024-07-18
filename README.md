@@ -101,6 +101,7 @@
 | [1039-find-the-town-judge](https://github.com/Sam-Surya-Ajay/test1/tree/master/1039-find-the-town-judge) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Sam-Surya-Ajay/test1/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1168-duplicate-zeros](https://github.com/Sam-Surya-Ajay/test1/tree/master/1168-duplicate-zeros) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Sam-Surya-Ajay/test1/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1769-get-maximum-in-generated-array](https://github.com/Sam-Surya-Ajay/test1/tree/master/1769-get-maximum-in-generated-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Sam-Surya-Ajay/test1/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Sam-Surya-Ajay/test1/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
@@ -128,6 +129,7 @@
 |  |
 | ------- |
 | [1039-find-the-town-judge](https://github.com/Sam-Surya-Ajay/test1/tree/master/1039-find-the-town-judge) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Sam-Surya-Ajay/test1/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Sam-Surya-Ajay/test1/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Sam-Surya-Ajay/test1/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2486-most-frequent-even-element](https://github.com/Sam-Surya-Ajay/test1/tree/master/2486-most-frequent-even-element) |
@@ -162,6 +164,7 @@
 ## Counting
 |  |
 | ------- |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Sam-Surya-Ajay/test1/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2486-most-frequent-even-element](https://github.com/Sam-Surya-Ajay/test1/tree/master/2486-most-frequent-even-element) |
 | [2831-number-of-beautiful-pairs](https://github.com/Sam-Surya-Ajay/test1/tree/master/2831-number-of-beautiful-pairs) |
 ## Simulation
