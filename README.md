@@ -117,6 +117,7 @@
 | [2350-find-closest-number-to-zero](https://github.com/Sam-Surya-Ajay/test1/tree/master/2350-find-closest-number-to-zero) |
 | [2486-most-frequent-even-element](https://github.com/Sam-Surya-Ajay/test1/tree/master/2486-most-frequent-even-element) |
 | [2518-the-employee-that-worked-on-the-longest-task](https://github.com/Sam-Surya-Ajay/test1/tree/master/2518-the-employee-that-worked-on-the-longest-task) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/Sam-Surya-Ajay/test1/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/Sam-Surya-Ajay/test1/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Sam-Surya-Ajay/test1/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [2694-find-the-maximum-divisibility-score](https://github.com/Sam-Surya-Ajay/test1/tree/master/2694-find-the-maximum-divisibility-score) |
@@ -212,6 +213,7 @@
 | ------- |
 | [0645-set-mismatch](https://github.com/Sam-Surya-Ajay/test1/tree/master/0645-set-mismatch) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/Sam-Surya-Ajay/test1/tree/master/1071-binary-prefix-divisible-by-5) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/Sam-Surya-Ajay/test1/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Sliding Window
 |  |
 | ------- |
