@@ -110,6 +110,7 @@
 | [1071-binary-prefix-divisible-by-5](https://github.com/Sam-Surya-Ajay/test1/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1168-duplicate-zeros](https://github.com/Sam-Surya-Ajay/test1/tree/master/1168-duplicate-zeros) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Sam-Surya-Ajay/test1/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1572-subrectangle-queries](https://github.com/Sam-Surya-Ajay/test1/tree/master/1572-subrectangle-queries) |
 | [1769-get-maximum-in-generated-array](https://github.com/Sam-Surya-Ajay/test1/tree/master/1769-get-maximum-in-generated-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Sam-Surya-Ajay/test1/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Sam-Surya-Ajay/test1/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
@@ -153,6 +154,7 @@
 ## Matrix
 |  |
 | ------- |
+| [1572-subrectangle-queries](https://github.com/Sam-Surya-Ajay/test1/tree/master/1572-subrectangle-queries) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Sam-Surya-Ajay/test1/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [3398-make-a-square-with-the-same-color](https://github.com/Sam-Surya-Ajay/test1/tree/master/3398-make-a-square-with-the-same-color) |
 ## Enumeration
@@ -218,4 +220,8 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Sam-Surya-Ajay/test1/tree/master/0219-contains-duplicate-ii) |
+## Design
+|  |
+| ------- |
+| [1572-subrectangle-queries](https://github.com/Sam-Surya-Ajay/test1/tree/master/1572-subrectangle-queries) |
 <!---LeetCode Topics End-->
