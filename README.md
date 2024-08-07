@@ -132,6 +132,7 @@
 | [2892-check-if-array-is-good](https://github.com/Sam-Surya-Ajay/test1/tree/master/2892-check-if-array-is-good) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/Sam-Surya-Ajay/test1/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Sam-Surya-Ajay/test1/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Sam-Surya-Ajay/test1/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3398-make-a-square-with-the-same-color](https://github.com/Sam-Surya-Ajay/test1/tree/master/3398-make-a-square-with-the-same-color) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Sam-Surya-Ajay/test1/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sam-Surya-Ajay/test1/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -233,6 +234,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Sam-Surya-Ajay/test1/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Sam-Surya-Ajay/test1/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/Sam-Surya-Ajay/test1/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
+| [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Sam-Surya-Ajay/test1/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 ## Sliding Window
 |  |
 | ------- |
