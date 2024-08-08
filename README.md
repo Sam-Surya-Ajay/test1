@@ -136,6 +136,7 @@
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Sam-Surya-Ajay/test1/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3398-make-a-square-with-the-same-color](https://github.com/Sam-Surya-Ajay/test1/tree/master/3398-make-a-square-with-the-same-color) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Sam-Surya-Ajay/test1/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Sam-Surya-Ajay/test1/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sam-Surya-Ajay/test1/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Binary Search
 |  |
@@ -147,6 +148,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Sam-Surya-Ajay/test1/tree/master/0088-merge-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/Sam-Surya-Ajay/test1/tree/master/1168-duplicate-zeros) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Sam-Surya-Ajay/test1/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -190,6 +192,7 @@
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Sam-Surya-Ajay/test1/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Sam-Surya-Ajay/test1/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2892-check-if-array-is-good](https://github.com/Sam-Surya-Ajay/test1/tree/master/2892-check-if-array-is-good) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Sam-Surya-Ajay/test1/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## String
 |  |
 | ------- |
