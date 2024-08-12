@@ -100,6 +100,7 @@
 | [0228-summary-ranges](https://github.com/Sam-Surya-Ajay/test1/tree/master/0228-summary-ranges) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sam-Surya-Ajay/test1/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Sam-Surya-Ajay/test1/tree/master/0645-set-mismatch) |
+| [0654-maximum-binary-tree](https://github.com/Sam-Surya-Ajay/test1/tree/master/0654-maximum-binary-tree) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Sam-Surya-Ajay/test1/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Sam-Surya-Ajay/test1/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Sam-Surya-Ajay/test1/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -260,4 +261,24 @@
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Sam-Surya-Ajay/test1/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/Sam-Surya-Ajay/test1/tree/master/0654-maximum-binary-tree) |
+## Stack
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/Sam-Surya-Ajay/test1/tree/master/0654-maximum-binary-tree) |
+## Tree
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/Sam-Surya-Ajay/test1/tree/master/0654-maximum-binary-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/Sam-Surya-Ajay/test1/tree/master/0654-maximum-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/Sam-Surya-Ajay/test1/tree/master/0654-maximum-binary-tree) |
 <!---LeetCode Topics End-->
