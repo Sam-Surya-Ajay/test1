@@ -14,4 +14,4 @@ public:
     }
 };
 
-int Solution::num = 0;
+int Solution::num;
