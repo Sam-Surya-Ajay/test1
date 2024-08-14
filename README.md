@@ -124,6 +124,7 @@
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Sam-Surya-Ajay/test1/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Sam-Surya-Ajay/test1/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2350-find-closest-number-to-zero](https://github.com/Sam-Surya-Ajay/test1/tree/master/2350-find-closest-number-to-zero) |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Sam-Surya-Ajay/test1/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2486-most-frequent-even-element](https://github.com/Sam-Surya-Ajay/test1/tree/master/2486-most-frequent-even-element) |
 | [2518-the-employee-that-worked-on-the-longest-task](https://github.com/Sam-Surya-Ajay/test1/tree/master/2518-the-employee-that-worked-on-the-longest-task) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Sam-Surya-Ajay/test1/tree/master/2519-find-the-original-array-of-prefix-xor) |
@@ -208,6 +209,7 @@
 | ------- |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Sam-Surya-Ajay/test1/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Sam-Surya-Ajay/test1/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Sam-Surya-Ajay/test1/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/Sam-Surya-Ajay/test1/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Sam-Surya-Ajay/test1/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 ## Counting
@@ -239,6 +241,7 @@
 |  |
 | ------- |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Sam-Surya-Ajay/test1/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+| [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Sam-Surya-Ajay/test1/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 ## Graph
 |  |
 | ------- |
