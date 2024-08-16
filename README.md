@@ -116,6 +116,7 @@
 | [1572-subrectangle-queries](https://github.com/Sam-Surya-Ajay/test1/tree/master/1572-subrectangle-queries) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Sam-Surya-Ajay/test1/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1769-get-maximum-in-generated-array](https://github.com/Sam-Surya-Ajay/test1/tree/master/1769-get-maximum-in-generated-array) |
+| [1775-design-an-ordered-stream](https://github.com/Sam-Surya-Ajay/test1/tree/master/1775-design-an-ordered-stream) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Sam-Surya-Ajay/test1/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Sam-Surya-Ajay/test1/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Sam-Surya-Ajay/test1/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -165,6 +166,7 @@
 | [1039-find-the-town-judge](https://github.com/Sam-Surya-Ajay/test1/tree/master/1039-find-the-town-judge) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Sam-Surya-Ajay/test1/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Sam-Surya-Ajay/test1/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
+| [1775-design-an-ordered-stream](https://github.com/Sam-Surya-Ajay/test1/tree/master/1775-design-an-ordered-stream) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Sam-Surya-Ajay/test1/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Sam-Surya-Ajay/test1/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2486-most-frequent-even-element](https://github.com/Sam-Surya-Ajay/test1/tree/master/2486-most-frequent-even-element) |
@@ -266,6 +268,7 @@
 |  |
 | ------- |
 | [1572-subrectangle-queries](https://github.com/Sam-Surya-Ajay/test1/tree/master/1572-subrectangle-queries) |
+| [1775-design-an-ordered-stream](https://github.com/Sam-Surya-Ajay/test1/tree/master/1775-design-an-ordered-stream) |
 ## Backtracking
 |  |
 | ------- |
@@ -294,4 +297,8 @@
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/Sam-Surya-Ajay/test1/tree/master/0654-maximum-binary-tree) |
+## Data Stream
+|  |
+| ------- |
+| [1775-design-an-ordered-stream](https://github.com/Sam-Surya-Ajay/test1/tree/master/1775-design-an-ordered-stream) |
 <!---LeetCode Topics End-->
