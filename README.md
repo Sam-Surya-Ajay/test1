@@ -113,6 +113,7 @@
 | [1168-duplicate-zeros](https://github.com/Sam-Surya-Ajay/test1/tree/master/1168-duplicate-zeros) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Sam-Surya-Ajay/test1/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Sam-Surya-Ajay/test1/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
+| [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Sam-Surya-Ajay/test1/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1572-subrectangle-queries](https://github.com/Sam-Surya-Ajay/test1/tree/master/1572-subrectangle-queries) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Sam-Surya-Ajay/test1/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1769-get-maximum-in-generated-array](https://github.com/Sam-Surya-Ajay/test1/tree/master/1769-get-maximum-in-generated-array) |
@@ -166,6 +167,7 @@
 | [1039-find-the-town-judge](https://github.com/Sam-Surya-Ajay/test1/tree/master/1039-find-the-town-judge) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Sam-Surya-Ajay/test1/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Sam-Surya-Ajay/test1/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
+| [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Sam-Surya-Ajay/test1/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1775-design-an-ordered-stream](https://github.com/Sam-Surya-Ajay/test1/tree/master/1775-design-an-ordered-stream) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Sam-Surya-Ajay/test1/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Sam-Surya-Ajay/test1/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
@@ -234,6 +236,7 @@
 | [0066-plus-one](https://github.com/Sam-Surya-Ajay/test1/tree/master/0066-plus-one) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sam-Surya-Ajay/test1/tree/master/0628-maximum-product-of-three-numbers) |
 | [1031-add-to-array-form-of-integer](https://github.com/Sam-Surya-Ajay/test1/tree/master/1031-add-to-array-form-of-integer) |
+| [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Sam-Surya-Ajay/test1/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Sam-Surya-Ajay/test1/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Sam-Surya-Ajay/test1/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2831-number-of-beautiful-pairs](https://github.com/Sam-Surya-Ajay/test1/tree/master/2831-number-of-beautiful-pairs) |
@@ -245,6 +248,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Sam-Surya-Ajay/test1/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Sam-Surya-Ajay/test1/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Sam-Surya-Ajay/test1/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 ## Graph
@@ -256,6 +260,7 @@
 | ------- |
 | [0645-set-mismatch](https://github.com/Sam-Surya-Ajay/test1/tree/master/0645-set-mismatch) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/Sam-Surya-Ajay/test1/tree/master/1071-binary-prefix-divisible-by-5) |
+| [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Sam-Surya-Ajay/test1/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Sam-Surya-Ajay/test1/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Sam-Surya-Ajay/test1/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/Sam-Surya-Ajay/test1/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
