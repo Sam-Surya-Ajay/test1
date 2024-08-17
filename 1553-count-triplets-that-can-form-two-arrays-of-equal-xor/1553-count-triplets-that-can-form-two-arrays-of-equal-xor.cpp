@@ -14,7 +14,7 @@ public:
         {
             for(int k=i+1; k<arr.size(); k++)
             {
-                if(prefix[i]==prefix[k+1])
+                if((prefix[i]^prefix[k+1])==0)
                    ans+=(k-i);
             }
         }
