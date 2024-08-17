@@ -133,6 +133,7 @@
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Sam-Surya-Ajay/test1/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/Sam-Surya-Ajay/test1/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Sam-Surya-Ajay/test1/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
+| [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Sam-Surya-Ajay/test1/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Sam-Surya-Ajay/test1/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2694-find-the-maximum-divisibility-score](https://github.com/Sam-Surya-Ajay/test1/tree/master/2694-find-the-maximum-divisibility-score) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Sam-Surya-Ajay/test1/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
@@ -184,6 +185,7 @@
 | [1572-subrectangle-queries](https://github.com/Sam-Surya-Ajay/test1/tree/master/1572-subrectangle-queries) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Sam-Surya-Ajay/test1/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Sam-Surya-Ajay/test1/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Sam-Surya-Ajay/test1/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Sam-Surya-Ajay/test1/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [3398-make-a-square-with-the-same-color](https://github.com/Sam-Surya-Ajay/test1/tree/master/3398-make-a-square-with-the-same-color) |
 ## Enumeration
@@ -229,6 +231,7 @@
 | ------- |
 | [1769-get-maximum-in-generated-array](https://github.com/Sam-Surya-Ajay/test1/tree/master/1769-get-maximum-in-generated-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Sam-Surya-Ajay/test1/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Sam-Surya-Ajay/test1/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2791-find-the-losers-of-the-circular-game](https://github.com/Sam-Surya-Ajay/test1/tree/master/2791-find-the-losers-of-the-circular-game) |
 ## Math
 |  |
