@@ -113,6 +113,7 @@
 | [1168-duplicate-zeros](https://github.com/Sam-Surya-Ajay/test1/tree/master/1168-duplicate-zeros) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Sam-Surya-Ajay/test1/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Sam-Surya-Ajay/test1/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
+| [1525-queries-on-a-permutation-with-key](https://github.com/Sam-Surya-Ajay/test1/tree/master/1525-queries-on-a-permutation-with-key) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Sam-Surya-Ajay/test1/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1572-subrectangle-queries](https://github.com/Sam-Surya-Ajay/test1/tree/master/1572-subrectangle-queries) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Sam-Surya-Ajay/test1/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -232,6 +233,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1525-queries-on-a-permutation-with-key](https://github.com/Sam-Surya-Ajay/test1/tree/master/1525-queries-on-a-permutation-with-key) |
 | [1769-get-maximum-in-generated-array](https://github.com/Sam-Surya-Ajay/test1/tree/master/1769-get-maximum-in-generated-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Sam-Surya-Ajay/test1/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Sam-Surya-Ajay/test1/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
@@ -317,4 +319,8 @@
 |  |
 | ------- |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Sam-Surya-Ajay/test1/tree/master/1683-maximum-number-of-coins-you-can-get) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1525-queries-on-a-permutation-with-key](https://github.com/Sam-Surya-Ajay/test1/tree/master/1525-queries-on-a-permutation-with-key) |
 <!---LeetCode Topics End-->
