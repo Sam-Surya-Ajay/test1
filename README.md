@@ -106,6 +106,7 @@
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Sam-Surya-Ajay/test1/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Sam-Surya-Ajay/test1/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Sam-Surya-Ajay/test1/tree/master/0825-max-increase-to-keep-city-skyline) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/Sam-Surya-Ajay/test1/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1031-add-to-array-form-of-integer](https://github.com/Sam-Surya-Ajay/test1/tree/master/1031-add-to-array-form-of-integer) |
 | [1039-find-the-town-judge](https://github.com/Sam-Surya-Ajay/test1/tree/master/1039-find-the-town-judge) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Sam-Surya-Ajay/test1/tree/master/1047-maximize-sum-of-array-after-k-negations) |
@@ -220,6 +221,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Sam-Surya-Ajay/test1/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Sam-Surya-Ajay/test1/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Sam-Surya-Ajay/test1/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/Sam-Surya-Ajay/test1/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Sam-Surya-Ajay/test1/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Sam-Surya-Ajay/test1/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Sam-Surya-Ajay/test1/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
@@ -245,6 +247,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0987-reveal-cards-in-increasing-order](https://github.com/Sam-Surya-Ajay/test1/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1525-queries-on-a-permutation-with-key](https://github.com/Sam-Surya-Ajay/test1/tree/master/1525-queries-on-a-permutation-with-key) |
 | [1769-get-maximum-in-generated-array](https://github.com/Sam-Surya-Ajay/test1/tree/master/1769-get-maximum-in-generated-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Sam-Surya-Ajay/test1/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -339,4 +342,8 @@
 |  |
 | ------- |
 | [1525-queries-on-a-permutation-with-key](https://github.com/Sam-Surya-Ajay/test1/tree/master/1525-queries-on-a-permutation-with-key) |
+## Queue
+|  |
+| ------- |
+| [0987-reveal-cards-in-increasing-order](https://github.com/Sam-Surya-Ajay/test1/tree/master/0987-reveal-cards-in-increasing-order) |
 <!---LeetCode Topics End-->
