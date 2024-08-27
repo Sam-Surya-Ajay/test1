@@ -113,6 +113,7 @@
 | [1071-binary-prefix-divisible-by-5](https://github.com/Sam-Surya-Ajay/test1/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1168-duplicate-zeros](https://github.com/Sam-Surya-Ajay/test1/tree/master/1168-duplicate-zeros) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Sam-Surya-Ajay/test1/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1253-sort-the-matrix-diagonally](https://github.com/Sam-Surya-Ajay/test1/tree/master/1253-sort-the-matrix-diagonally) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Sam-Surya-Ajay/test1/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1525-queries-on-a-permutation-with-key](https://github.com/Sam-Surya-Ajay/test1/tree/master/1525-queries-on-a-permutation-with-key) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Sam-Surya-Ajay/test1/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -193,6 +194,7 @@
 |  |
 | ------- |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Sam-Surya-Ajay/test1/tree/master/0825-max-increase-to-keep-city-skyline) |
+| [1253-sort-the-matrix-diagonally](https://github.com/Sam-Surya-Ajay/test1/tree/master/1253-sort-the-matrix-diagonally) |
 | [1572-subrectangle-queries](https://github.com/Sam-Surya-Ajay/test1/tree/master/1572-subrectangle-queries) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Sam-Surya-Ajay/test1/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Sam-Surya-Ajay/test1/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -223,6 +225,7 @@
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Sam-Surya-Ajay/test1/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Sam-Surya-Ajay/test1/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Sam-Surya-Ajay/test1/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1253-sort-the-matrix-diagonally](https://github.com/Sam-Surya-Ajay/test1/tree/master/1253-sort-the-matrix-diagonally) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Sam-Surya-Ajay/test1/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Sam-Surya-Ajay/test1/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1752-arithmetic-subarrays](https://github.com/Sam-Surya-Ajay/test1/tree/master/1752-arithmetic-subarrays) |
