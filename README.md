@@ -153,6 +153,7 @@
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Sam-Surya-Ajay/test1/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Sam-Surya-Ajay/test1/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Sam-Surya-Ajay/test1/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
+| [3397-find-the-integer-added-to-array-i](https://github.com/Sam-Surya-Ajay/test1/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3398-make-a-square-with-the-same-color](https://github.com/Sam-Surya-Ajay/test1/tree/master/3398-make-a-square-with-the-same-color) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Sam-Surya-Ajay/test1/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Sam-Surya-Ajay/test1/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
