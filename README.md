@@ -107,6 +107,7 @@
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Sam-Surya-Ajay/test1/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Sam-Surya-Ajay/test1/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Sam-Surya-Ajay/test1/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1022-unique-paths-iii](https://github.com/Sam-Surya-Ajay/test1/tree/master/1022-unique-paths-iii) |
 | [1031-add-to-array-form-of-integer](https://github.com/Sam-Surya-Ajay/test1/tree/master/1031-add-to-array-form-of-integer) |
 | [1039-find-the-town-judge](https://github.com/Sam-Surya-Ajay/test1/tree/master/1039-find-the-town-judge) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Sam-Surya-Ajay/test1/tree/master/1047-maximize-sum-of-array-after-k-negations) |
@@ -200,6 +201,7 @@
 |  |
 | ------- |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Sam-Surya-Ajay/test1/tree/master/0825-max-increase-to-keep-city-skyline) |
+| [1022-unique-paths-iii](https://github.com/Sam-Surya-Ajay/test1/tree/master/1022-unique-paths-iii) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Sam-Surya-Ajay/test1/tree/master/1253-sort-the-matrix-diagonally) |
 | [1572-subrectangle-queries](https://github.com/Sam-Surya-Ajay/test1/tree/master/1572-subrectangle-queries) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Sam-Surya-Ajay/test1/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -297,6 +299,7 @@
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/Sam-Surya-Ajay/test1/tree/master/0645-set-mismatch) |
+| [1022-unique-paths-iii](https://github.com/Sam-Surya-Ajay/test1/tree/master/1022-unique-paths-iii) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/Sam-Surya-Ajay/test1/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Sam-Surya-Ajay/test1/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Sam-Surya-Ajay/test1/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -318,6 +321,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [1022-unique-paths-iii](https://github.com/Sam-Surya-Ajay/test1/tree/master/1022-unique-paths-iii) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Sam-Surya-Ajay/test1/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Sam-Surya-Ajay/test1/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Combinatorics
