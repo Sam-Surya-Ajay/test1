@@ -163,6 +163,7 @@
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sam-Surya-Ajay/test1/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Sam-Surya-Ajay/test1/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3516-design-neighbor-sum-service](https://github.com/Sam-Surya-Ajay/test1/tree/master/3516-design-neighbor-sum-service) |
+| [3533-snake-in-matrix](https://github.com/Sam-Surya-Ajay/test1/tree/master/3533-snake-in-matrix) |
 ## Binary Search
 |  |
 | ------- |
@@ -250,6 +251,7 @@
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Sam-Surya-Ajay/test1/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/Sam-Surya-Ajay/test1/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Sam-Surya-Ajay/test1/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
+| [3533-snake-in-matrix](https://github.com/Sam-Surya-Ajay/test1/tree/master/3533-snake-in-matrix) |
 ## Counting
 |  |
 | ------- |
@@ -267,6 +269,7 @@
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Sam-Surya-Ajay/test1/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2791-find-the-losers-of-the-circular-game](https://github.com/Sam-Surya-Ajay/test1/tree/master/2791-find-the-losers-of-the-circular-game) |
 | [3516-design-neighbor-sum-service](https://github.com/Sam-Surya-Ajay/test1/tree/master/3516-design-neighbor-sum-service) |
+| [3533-snake-in-matrix](https://github.com/Sam-Surya-Ajay/test1/tree/master/3533-snake-in-matrix) |
 ## Math
 |  |
 | ------- |
