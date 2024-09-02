@@ -21,23 +21,20 @@ public:
             if(commands[a]=="UP")
             {
                 i--;
-                ans=grid[i][j];
             }
             else if(commands[a]=="DOWN")
             {
                 i++;
-                ans=grid[i][j];
             }
             else if(commands[a]=="LEFT")
             {
                 j--;
-                ans=grid[i][j];
             }
             else if(commands[a]=="RIGHT")
             {
                 j++;
-                ans=grid[i][j];
             }
+            ans=grid[i][j];
         }
         return ans;  
     }
