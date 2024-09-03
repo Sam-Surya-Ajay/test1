@@ -99,6 +99,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Sam-Surya-Ajay/test1/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Sam-Surya-Ajay/test1/tree/master/0228-summary-ranges) |
 | [0414-third-maximum-number](https://github.com/Sam-Surya-Ajay/test1/tree/master/0414-third-maximum-number) |
+| [0506-relative-ranks](https://github.com/Sam-Surya-Ajay/test1/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sam-Surya-Ajay/test1/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Sam-Surya-Ajay/test1/tree/master/0645-set-mismatch) |
 | [0654-maximum-binary-tree](https://github.com/Sam-Surya-Ajay/test1/tree/master/0654-maximum-binary-tree) |
@@ -231,6 +232,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Sam-Surya-Ajay/test1/tree/master/0088-merge-sorted-array) |
 | [0414-third-maximum-number](https://github.com/Sam-Surya-Ajay/test1/tree/master/0414-third-maximum-number) |
+| [0506-relative-ranks](https://github.com/Sam-Surya-Ajay/test1/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sam-Surya-Ajay/test1/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Sam-Surya-Ajay/test1/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Sam-Surya-Ajay/test1/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -389,4 +391,8 @@
 |  |
 | ------- |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Sam-Surya-Ajay/test1/tree/master/1381-maximum-score-words-formed-by-letters) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/Sam-Surya-Ajay/test1/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
