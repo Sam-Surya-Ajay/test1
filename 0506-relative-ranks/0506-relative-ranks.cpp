@@ -14,13 +14,14 @@ public:
             {
                 if(temp[i]==score[j])
                 {
-                    ans[j]=to_string(i+1);
                     if(i==0)
                        ans[j]="Gold Medal";
                     else if(i==1)
                        ans[j]="Silver Medal";
                     else if(i==2)
                        ans[j]="Bronze Medal";
+                    else
+                       ans[j]=to_string(i+1);
                     break;
                 }
             }
