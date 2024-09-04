@@ -100,6 +100,7 @@
 | [0228-summary-ranges](https://github.com/Sam-Surya-Ajay/test1/tree/master/0228-summary-ranges) |
 | [0414-third-maximum-number](https://github.com/Sam-Surya-Ajay/test1/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/Sam-Surya-Ajay/test1/tree/master/0506-relative-ranks) |
+| [0566-reshape-the-matrix](https://github.com/Sam-Surya-Ajay/test1/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sam-Surya-Ajay/test1/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Sam-Surya-Ajay/test1/tree/master/0645-set-mismatch) |
 | [0654-maximum-binary-tree](https://github.com/Sam-Surya-Ajay/test1/tree/master/0654-maximum-binary-tree) |
@@ -203,6 +204,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/Sam-Surya-Ajay/test1/tree/master/0566-reshape-the-matrix) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Sam-Surya-Ajay/test1/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [1022-unique-paths-iii](https://github.com/Sam-Surya-Ajay/test1/tree/master/1022-unique-paths-iii) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Sam-Surya-Ajay/test1/tree/master/1253-sort-the-matrix-diagonally) |
@@ -265,6 +267,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/Sam-Surya-Ajay/test1/tree/master/0566-reshape-the-matrix) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Sam-Surya-Ajay/test1/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1525-queries-on-a-permutation-with-key](https://github.com/Sam-Surya-Ajay/test1/tree/master/1525-queries-on-a-permutation-with-key) |
 | [1769-get-maximum-in-generated-array](https://github.com/Sam-Surya-Ajay/test1/tree/master/1769-get-maximum-in-generated-array) |
