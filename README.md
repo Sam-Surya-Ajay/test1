@@ -103,6 +103,7 @@
 | [0566-reshape-the-matrix](https://github.com/Sam-Surya-Ajay/test1/tree/master/0566-reshape-the-matrix) |
 | [0605-can-place-flowers](https://github.com/Sam-Surya-Ajay/test1/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sam-Surya-Ajay/test1/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/Sam-Surya-Ajay/test1/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Sam-Surya-Ajay/test1/tree/master/0645-set-mismatch) |
 | [0654-maximum-binary-tree](https://github.com/Sam-Surya-Ajay/test1/tree/master/0654-maximum-binary-tree) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Sam-Surya-Ajay/test1/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -324,6 +325,7 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Sam-Surya-Ajay/test1/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/Sam-Surya-Ajay/test1/tree/master/0643-maximum-average-subarray-i) |
 ## Design
 |  |
 | ------- |
