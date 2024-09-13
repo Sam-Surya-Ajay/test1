@@ -124,6 +124,7 @@
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Sam-Surya-Ajay/test1/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Sam-Surya-Ajay/test1/tree/master/1395-minimum-time-visiting-all-points) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Sam-Surya-Ajay/test1/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
+| [1435-xor-queries-of-a-subarray](https://github.com/Sam-Surya-Ajay/test1/tree/master/1435-xor-queries-of-a-subarray) |
 | [1525-queries-on-a-permutation-with-key](https://github.com/Sam-Surya-Ajay/test1/tree/master/1525-queries-on-a-permutation-with-key) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Sam-Surya-Ajay/test1/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1572-subrectangle-queries](https://github.com/Sam-Surya-Ajay/test1/tree/master/1572-subrectangle-queries) |
@@ -301,6 +302,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1435-xor-queries-of-a-subarray](https://github.com/Sam-Surya-Ajay/test1/tree/master/1435-xor-queries-of-a-subarray) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Sam-Surya-Ajay/test1/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Sam-Surya-Ajay/test1/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Sam-Surya-Ajay/test1/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
@@ -315,6 +317,7 @@
 | [1022-unique-paths-iii](https://github.com/Sam-Surya-Ajay/test1/tree/master/1022-unique-paths-iii) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/Sam-Surya-Ajay/test1/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Sam-Surya-Ajay/test1/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [1435-xor-queries-of-a-subarray](https://github.com/Sam-Surya-Ajay/test1/tree/master/1435-xor-queries-of-a-subarray) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Sam-Surya-Ajay/test1/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Sam-Surya-Ajay/test1/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Sam-Surya-Ajay/test1/tree/master/2519-find-the-original-array-of-prefix-xor) |
