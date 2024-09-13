@@ -9,8 +9,7 @@ public:
         {
             for(int j=0; j<img[0].size(); j++)
             {
-                long long sum=0;
-                int count=0;
+                int sum=0, count=0;
                 for(int dr=-1; dr<=1; dr++)
                 {
                     for(int dc=-1; dc<=1; dc++)
