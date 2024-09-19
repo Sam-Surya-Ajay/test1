@@ -112,6 +112,7 @@
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Sam-Surya-Ajay/test1/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Sam-Surya-Ajay/test1/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Sam-Surya-Ajay/test1/tree/master/0825-max-increase-to-keep-city-skyline) |
+| [0928-surface-area-of-3d-shapes](https://github.com/Sam-Surya-Ajay/test1/tree/master/0928-surface-area-of-3d-shapes) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Sam-Surya-Ajay/test1/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1022-unique-paths-iii](https://github.com/Sam-Surya-Ajay/test1/tree/master/1022-unique-paths-iii) |
 | [1031-add-to-array-form-of-integer](https://github.com/Sam-Surya-Ajay/test1/tree/master/1031-add-to-array-form-of-integer) |
@@ -211,6 +212,7 @@
 | [0566-reshape-the-matrix](https://github.com/Sam-Surya-Ajay/test1/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/Sam-Surya-Ajay/test1/tree/master/0661-image-smoother) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Sam-Surya-Ajay/test1/tree/master/0825-max-increase-to-keep-city-skyline) |
+| [0928-surface-area-of-3d-shapes](https://github.com/Sam-Surya-Ajay/test1/tree/master/0928-surface-area-of-3d-shapes) |
 | [1022-unique-paths-iii](https://github.com/Sam-Surya-Ajay/test1/tree/master/1022-unique-paths-iii) |
 | [1253-sort-the-matrix-diagonally](https://github.com/Sam-Surya-Ajay/test1/tree/master/1253-sort-the-matrix-diagonally) |
 | [1572-subrectangle-queries](https://github.com/Sam-Surya-Ajay/test1/tree/master/1572-subrectangle-queries) |
@@ -288,6 +290,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/Sam-Surya-Ajay/test1/tree/master/0066-plus-one) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sam-Surya-Ajay/test1/tree/master/0628-maximum-product-of-three-numbers) |
+| [0928-surface-area-of-3d-shapes](https://github.com/Sam-Surya-Ajay/test1/tree/master/0928-surface-area-of-3d-shapes) |
 | [1031-add-to-array-form-of-integer](https://github.com/Sam-Surya-Ajay/test1/tree/master/1031-add-to-array-form-of-integer) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Sam-Surya-Ajay/test1/tree/master/1395-minimum-time-visiting-all-points) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Sam-Surya-Ajay/test1/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -394,6 +397,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0928-surface-area-of-3d-shapes](https://github.com/Sam-Surya-Ajay/test1/tree/master/0928-surface-area-of-3d-shapes) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Sam-Surya-Ajay/test1/tree/master/1395-minimum-time-visiting-all-points) |
 ## Dynamic Programming
 |  |
