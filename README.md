@@ -126,6 +126,7 @@
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Sam-Surya-Ajay/test1/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Sam-Surya-Ajay/test1/tree/master/1395-minimum-time-visiting-all-points) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Sam-Surya-Ajay/test1/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Sam-Surya-Ajay/test1/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Sam-Surya-Ajay/test1/tree/master/1435-xor-queries-of-a-subarray) |
 | [1525-queries-on-a-permutation-with-key](https://github.com/Sam-Surya-Ajay/test1/tree/master/1525-queries-on-a-permutation-with-key) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Sam-Surya-Ajay/test1/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -293,6 +294,7 @@
 | [0928-surface-area-of-3d-shapes](https://github.com/Sam-Surya-Ajay/test1/tree/master/0928-surface-area-of-3d-shapes) |
 | [1031-add-to-array-form-of-integer](https://github.com/Sam-Surya-Ajay/test1/tree/master/1031-add-to-array-form-of-integer) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Sam-Surya-Ajay/test1/tree/master/1395-minimum-time-visiting-all-points) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Sam-Surya-Ajay/test1/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Sam-Surya-Ajay/test1/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Sam-Surya-Ajay/test1/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Sam-Surya-Ajay/test1/tree/master/1993-sum-of-all-subset-xor-totals) |
