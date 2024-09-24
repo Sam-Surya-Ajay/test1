@@ -174,6 +174,7 @@
 | [3516-design-neighbor-sum-service](https://github.com/Sam-Surya-Ajay/test1/tree/master/3516-design-neighbor-sum-service) |
 | [3533-snake-in-matrix](https://github.com/Sam-Surya-Ajay/test1/tree/master/3533-snake-in-matrix) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sam-Surya-Ajay/test1/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3582-find-indices-of-stable-mountains](https://github.com/Sam-Surya-Ajay/test1/tree/master/3582-find-indices-of-stable-mountains) |
 ## Binary Search
 |  |
 | ------- |
