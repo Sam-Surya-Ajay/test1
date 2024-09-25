@@ -139,6 +139,7 @@
 | [1775-design-an-ordered-stream](https://github.com/Sam-Surya-Ajay/test1/tree/master/1775-design-an-ordered-stream) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Sam-Surya-Ajay/test1/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Sam-Surya-Ajay/test1/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Sam-Surya-Ajay/test1/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Sam-Surya-Ajay/test1/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Sam-Surya-Ajay/test1/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Sam-Surya-Ajay/test1/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -241,6 +242,7 @@
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Sam-Surya-Ajay/test1/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Sam-Surya-Ajay/test1/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Sam-Surya-Ajay/test1/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Sam-Surya-Ajay/test1/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Sam-Surya-Ajay/test1/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Sorting
 |  |
