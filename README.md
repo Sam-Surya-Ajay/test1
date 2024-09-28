@@ -173,6 +173,7 @@
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sam-Surya-Ajay/test1/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Sam-Surya-Ajay/test1/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3516-design-neighbor-sum-service](https://github.com/Sam-Surya-Ajay/test1/tree/master/3516-design-neighbor-sum-service) |
+| [3519-find-the-number-of-winning-players](https://github.com/Sam-Surya-Ajay/test1/tree/master/3519-find-the-number-of-winning-players) |
 | [3533-snake-in-matrix](https://github.com/Sam-Surya-Ajay/test1/tree/master/3533-snake-in-matrix) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Sam-Surya-Ajay/test1/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sam-Surya-Ajay/test1/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -211,6 +212,7 @@
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Sam-Surya-Ajay/test1/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Sam-Surya-Ajay/test1/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3516-design-neighbor-sum-service](https://github.com/Sam-Surya-Ajay/test1/tree/master/3516-design-neighbor-sum-service) |
+| [3519-find-the-number-of-winning-players](https://github.com/Sam-Surya-Ajay/test1/tree/master/3519-find-the-number-of-winning-players) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sam-Surya-Ajay/test1/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Matrix
 |  |
@@ -279,6 +281,7 @@
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Sam-Surya-Ajay/test1/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2486-most-frequent-even-element](https://github.com/Sam-Surya-Ajay/test1/tree/master/2486-most-frequent-even-element) |
 | [2831-number-of-beautiful-pairs](https://github.com/Sam-Surya-Ajay/test1/tree/master/2831-number-of-beautiful-pairs) |
+| [3519-find-the-number-of-winning-players](https://github.com/Sam-Surya-Ajay/test1/tree/master/3519-find-the-number-of-winning-players) |
 ## Simulation
 |  |
 | ------- |
