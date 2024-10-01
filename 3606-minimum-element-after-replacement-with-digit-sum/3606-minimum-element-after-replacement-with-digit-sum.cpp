@@ -14,8 +14,7 @@ public:
                 a/=10;  
             }
             nums[i]=temp;
-            if(nums[i]<mini)
-               mini=nums[i];
+            mini=min(mini, nums[i]);
         }
         return mini;
     }
