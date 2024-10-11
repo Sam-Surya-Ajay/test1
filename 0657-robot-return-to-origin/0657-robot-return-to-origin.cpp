@@ -15,8 +15,6 @@ public:
             else if(moves[i]=='L')
               x--;
         }
-        if(x==0 && y==0)
-           return true;
-        return false;
+        return (x==0 && y==0);
     }
 };
