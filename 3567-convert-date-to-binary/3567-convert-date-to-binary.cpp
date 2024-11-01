@@ -4,14 +4,14 @@ public:
     string tobinary(int num)
     {
         string binary;
-        while (num > 0) 
+        while (num) 
         {
-            binary = (num % 2 == 0 ? "0" : "1") + binary;
+            binary = to_string(num % 2) + binary;
             num /= 2;
         }
-        return binary.empty() ? "0" : binary; 
+        return binary; 
     }
-    
+
     string convertDateToBinary(string date) 
     {
        string ans, s;
