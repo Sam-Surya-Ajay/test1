@@ -198,6 +198,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Sam-Surya-Ajay/test1/tree/master/0013-roman-to-integer) |
 | [0219-contains-duplicate-ii](https://github.com/Sam-Surya-Ajay/test1/tree/master/0219-contains-duplicate-ii) |
 | [0645-set-mismatch](https://github.com/Sam-Surya-Ajay/test1/tree/master/0645-set-mismatch) |
 | [0782-jewels-and-stones](https://github.com/Sam-Surya-Ajay/test1/tree/master/0782-jewels-and-stones) |
@@ -277,6 +278,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Sam-Surya-Ajay/test1/tree/master/0013-roman-to-integer) |
 | [0344-reverse-string](https://github.com/Sam-Surya-Ajay/test1/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sam-Surya-Ajay/test1/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/Sam-Surya-Ajay/test1/tree/master/0657-robot-return-to-origin) |
@@ -320,6 +322,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Sam-Surya-Ajay/test1/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Sam-Surya-Ajay/test1/tree/master/0066-plus-one) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sam-Surya-Ajay/test1/tree/master/0628-maximum-product-of-three-numbers) |
 | [0928-surface-area-of-3d-shapes](https://github.com/Sam-Surya-Ajay/test1/tree/master/0928-surface-area-of-3d-shapes) |
