@@ -280,6 +280,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/Sam-Surya-Ajay/test1/tree/master/0013-roman-to-integer) |
 | [0344-reverse-string](https://github.com/Sam-Surya-Ajay/test1/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/Sam-Surya-Ajay/test1/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sam-Surya-Ajay/test1/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/Sam-Surya-Ajay/test1/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/Sam-Surya-Ajay/test1/tree/master/0742-to-lower-case) |
@@ -307,6 +308,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Sam-Surya-Ajay/test1/tree/master/0412-fizz-buzz) |
 | [0566-reshape-the-matrix](https://github.com/Sam-Surya-Ajay/test1/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/Sam-Surya-Ajay/test1/tree/master/0657-robot-return-to-origin) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Sam-Surya-Ajay/test1/tree/master/0987-reveal-cards-in-increasing-order) |
@@ -324,6 +326,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/Sam-Surya-Ajay/test1/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Sam-Surya-Ajay/test1/tree/master/0066-plus-one) |
+| [0412-fizz-buzz](https://github.com/Sam-Surya-Ajay/test1/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sam-Surya-Ajay/test1/tree/master/0628-maximum-product-of-three-numbers) |
 | [0928-surface-area-of-3d-shapes](https://github.com/Sam-Surya-Ajay/test1/tree/master/0928-surface-area-of-3d-shapes) |
 | [1031-add-to-array-form-of-integer](https://github.com/Sam-Surya-Ajay/test1/tree/master/1031-add-to-array-form-of-integer) |
