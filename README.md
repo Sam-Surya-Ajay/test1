@@ -200,6 +200,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/Sam-Surya-Ajay/test1/tree/master/0013-roman-to-integer) |
 | [0219-contains-duplicate-ii](https://github.com/Sam-Surya-Ajay/test1/tree/master/0219-contains-duplicate-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/Sam-Surya-Ajay/test1/tree/master/0387-first-unique-character-in-a-string) |
 | [0645-set-mismatch](https://github.com/Sam-Surya-Ajay/test1/tree/master/0645-set-mismatch) |
 | [0782-jewels-and-stones](https://github.com/Sam-Surya-Ajay/test1/tree/master/0782-jewels-and-stones) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Sam-Surya-Ajay/test1/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -281,6 +282,7 @@
 | [0013-roman-to-integer](https://github.com/Sam-Surya-Ajay/test1/tree/master/0013-roman-to-integer) |
 | [0171-excel-sheet-column-number](https://github.com/Sam-Surya-Ajay/test1/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/Sam-Surya-Ajay/test1/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Sam-Surya-Ajay/test1/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Sam-Surya-Ajay/test1/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sam-Surya-Ajay/test1/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/Sam-Surya-Ajay/test1/tree/master/0657-robot-return-to-origin) |
@@ -301,6 +303,7 @@
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Sam-Surya-Ajay/test1/tree/master/0387-first-unique-character-in-a-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Sam-Surya-Ajay/test1/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Sam-Surya-Ajay/test1/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2486-most-frequent-even-element](https://github.com/Sam-Surya-Ajay/test1/tree/master/2486-most-frequent-even-element) |
@@ -434,6 +437,7 @@
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Sam-Surya-Ajay/test1/tree/master/0387-first-unique-character-in-a-string) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Sam-Surya-Ajay/test1/tree/master/0987-reveal-cards-in-increasing-order) |
 ## Binary Search Tree
 |  |
