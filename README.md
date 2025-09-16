@@ -180,6 +180,7 @@
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Sam-Surya-Ajay/test1/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sam-Surya-Ajay/test1/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3582-find-indices-of-stable-mountains](https://github.com/Sam-Surya-Ajay/test1/tree/master/3582-find-indices-of-stable-mountains) |
+| [3605-construct-the-minimum-bitwise-array-i](https://github.com/Sam-Surya-Ajay/test1/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Sam-Surya-Ajay/test1/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Sam-Surya-Ajay/test1/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Binary Search
@@ -384,6 +385,7 @@
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/Sam-Surya-Ajay/test1/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Sam-Surya-Ajay/test1/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Sam-Surya-Ajay/test1/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
+| [3605-construct-the-minimum-bitwise-array-i](https://github.com/Sam-Surya-Ajay/test1/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 ## Sliding Window
 |  |
 | ------- |
