@@ -93,6 +93,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Sam-Surya-Ajay/test1/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/Sam-Surya-Ajay/test1/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Sam-Surya-Ajay/test1/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Sam-Surya-Ajay/test1/tree/master/0088-merge-sorted-array) |
@@ -285,6 +286,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Sam-Surya-Ajay/test1/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Sam-Surya-Ajay/test1/tree/master/0014-longest-common-prefix) |
 | [0171-excel-sheet-column-number](https://github.com/Sam-Surya-Ajay/test1/tree/master/0171-excel-sheet-column-number) |
 | [0257-binary-tree-paths](https://github.com/Sam-Surya-Ajay/test1/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Sam-Surya-Ajay/test1/tree/master/0344-reverse-string) |
@@ -477,4 +479,8 @@
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Sam-Surya-Ajay/test1/tree/master/0257-binary-tree-paths) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Sam-Surya-Ajay/test1/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
