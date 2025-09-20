@@ -10,6 +10,8 @@ public:
             pairs.push_back({nums[i], i});
         }
         sort(pairs.begin(), pairs.end(), [](auto &a, auto &b){
+            if(a.first==b.first) 
+               return a.second < b.second;
             return a.first > b.first;
         });
         
