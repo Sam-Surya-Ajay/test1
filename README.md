@@ -197,6 +197,7 @@
 | [0344-reverse-string](https://github.com/Sam-Surya-Ajay/test1/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sam-Surya-Ajay/test1/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1168-duplicate-zeros](https://github.com/Sam-Surya-Ajay/test1/tree/master/1168-duplicate-zeros) |
+| [1894-merge-strings-alternately](https://github.com/Sam-Surya-Ajay/test1/tree/master/1894-merge-strings-alternately) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Sam-Surya-Ajay/test1/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sam-Surya-Ajay/test1/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Sam-Surya-Ajay/test1/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -306,6 +307,7 @@
 | [1205-defanging-an-ip-address](https://github.com/Sam-Surya-Ajay/test1/tree/master/1205-defanging-an-ip-address) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Sam-Surya-Ajay/test1/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Sam-Surya-Ajay/test1/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [1894-merge-strings-alternately](https://github.com/Sam-Surya-Ajay/test1/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Sam-Surya-Ajay/test1/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Sam-Surya-Ajay/test1/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2406-decode-the-message](https://github.com/Sam-Surya-Ajay/test1/tree/master/2406-decode-the-message) |
