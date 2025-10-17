@@ -266,6 +266,7 @@
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Sam-Surya-Ajay/test1/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Sam-Surya-Ajay/test1/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Sam-Surya-Ajay/test1/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [3055-maximum-odd-binary-number](https://github.com/Sam-Surya-Ajay/test1/tree/master/3055-maximum-odd-binary-number) |
 ## Sorting
 |  |
 | ------- |
@@ -315,6 +316,7 @@
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Sam-Surya-Ajay/test1/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/Sam-Surya-Ajay/test1/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Sam-Surya-Ajay/test1/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
+| [3055-maximum-odd-binary-number](https://github.com/Sam-Surya-Ajay/test1/tree/master/3055-maximum-odd-binary-number) |
 | [3379-score-of-a-string](https://github.com/Sam-Surya-Ajay/test1/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Sam-Surya-Ajay/test1/tree/master/3412-permutation-difference-between-two-strings) |
 | [3533-snake-in-matrix](https://github.com/Sam-Surya-Ajay/test1/tree/master/3533-snake-in-matrix) |
@@ -362,6 +364,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Sam-Surya-Ajay/test1/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Sam-Surya-Ajay/test1/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2831-number-of-beautiful-pairs](https://github.com/Sam-Surya-Ajay/test1/tree/master/2831-number-of-beautiful-pairs) |
+| [3055-maximum-odd-binary-number](https://github.com/Sam-Surya-Ajay/test1/tree/master/3055-maximum-odd-binary-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sam-Surya-Ajay/test1/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Sam-Surya-Ajay/test1/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Sam-Surya-Ajay/test1/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
