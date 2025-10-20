@@ -143,6 +143,7 @@
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Sam-Surya-Ajay/test1/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Sam-Surya-Ajay/test1/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Sam-Surya-Ajay/test1/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Sam-Surya-Ajay/test1/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Sam-Surya-Ajay/test1/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Sam-Surya-Ajay/test1/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Sam-Surya-Ajay/test1/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -311,6 +312,7 @@
 | [1894-merge-strings-alternately](https://github.com/Sam-Surya-Ajay/test1/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Sam-Surya-Ajay/test1/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1954-replace-all-digits-with-characters](https://github.com/Sam-Surya-Ajay/test1/tree/master/1954-replace-all-digits-with-characters) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Sam-Surya-Ajay/test1/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Sam-Surya-Ajay/test1/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2406-decode-the-message](https://github.com/Sam-Surya-Ajay/test1/tree/master/2406-decode-the-message) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Sam-Surya-Ajay/test1/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
@@ -340,6 +342,7 @@
 | [0987-reveal-cards-in-increasing-order](https://github.com/Sam-Surya-Ajay/test1/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1525-queries-on-a-permutation-with-key](https://github.com/Sam-Surya-Ajay/test1/tree/master/1525-queries-on-a-permutation-with-key) |
 | [1769-get-maximum-in-generated-array](https://github.com/Sam-Surya-Ajay/test1/tree/master/1769-get-maximum-in-generated-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Sam-Surya-Ajay/test1/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Sam-Surya-Ajay/test1/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sam-Surya-Ajay/test1/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Sam-Surya-Ajay/test1/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
