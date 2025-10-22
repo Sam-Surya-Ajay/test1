@@ -188,6 +188,7 @@
 | [3731-sum-of-variable-length-subarrays](https://github.com/Sam-Surya-Ajay/test1/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3778-transform-array-by-parity](https://github.com/Sam-Surya-Ajay/test1/tree/master/3778-transform-array-by-parity) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sam-Surya-Ajay/test1/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [4058-compute-alternating-sum](https://github.com/Sam-Surya-Ajay/test1/tree/master/4058-compute-alternating-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -356,6 +357,7 @@
 | [3516-design-neighbor-sum-service](https://github.com/Sam-Surya-Ajay/test1/tree/master/3516-design-neighbor-sum-service) |
 | [3533-snake-in-matrix](https://github.com/Sam-Surya-Ajay/test1/tree/master/3533-snake-in-matrix) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Sam-Surya-Ajay/test1/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [4058-compute-alternating-sum](https://github.com/Sam-Surya-Ajay/test1/tree/master/4058-compute-alternating-sum) |
 ## Math
 |  |
 | ------- |
