@@ -187,6 +187,7 @@
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Sam-Surya-Ajay/test1/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Sam-Surya-Ajay/test1/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3778-transform-array-by-parity](https://github.com/Sam-Surya-Ajay/test1/tree/master/3778-transform-array-by-parity) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sam-Surya-Ajay/test1/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -379,6 +380,7 @@
 | [3567-convert-date-to-binary](https://github.com/Sam-Surya-Ajay/test1/tree/master/3567-convert-date-to-binary) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sam-Surya-Ajay/test1/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Sam-Surya-Ajay/test1/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sam-Surya-Ajay/test1/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Number Theory
 |  |
 | ------- |
