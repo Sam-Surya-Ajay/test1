@@ -186,6 +186,7 @@
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/Sam-Surya-Ajay/test1/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Sam-Surya-Ajay/test1/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Sam-Surya-Ajay/test1/tree/master/3731-sum-of-variable-length-subarrays) |
+| [3778-transform-array-by-parity](https://github.com/Sam-Surya-Ajay/test1/tree/master/3778-transform-array-by-parity) |
 ## Binary Search
 |  |
 | ------- |
@@ -291,6 +292,7 @@
 | [2888-minimum-index-of-a-valid-split](https://github.com/Sam-Surya-Ajay/test1/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2892-check-if-array-is-good](https://github.com/Sam-Surya-Ajay/test1/tree/master/2892-check-if-array-is-good) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Sam-Surya-Ajay/test1/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3778-transform-array-by-parity](https://github.com/Sam-Surya-Ajay/test1/tree/master/3778-transform-array-by-parity) |
 ## String
 |  |
 | ------- |
@@ -335,6 +337,7 @@
 | [2486-most-frequent-even-element](https://github.com/Sam-Surya-Ajay/test1/tree/master/2486-most-frequent-even-element) |
 | [2831-number-of-beautiful-pairs](https://github.com/Sam-Surya-Ajay/test1/tree/master/2831-number-of-beautiful-pairs) |
 | [3519-find-the-number-of-winning-players](https://github.com/Sam-Surya-Ajay/test1/tree/master/3519-find-the-number-of-winning-players) |
+| [3778-transform-array-by-parity](https://github.com/Sam-Surya-Ajay/test1/tree/master/3778-transform-array-by-parity) |
 ## Simulation
 |  |
 | ------- |
