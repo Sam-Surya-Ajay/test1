@@ -314,6 +314,7 @@
 | [1205-defanging-an-ip-address](https://github.com/Sam-Surya-Ajay/test1/tree/master/1205-defanging-an-ip-address) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Sam-Surya-Ajay/test1/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Sam-Surya-Ajay/test1/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Sam-Surya-Ajay/test1/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1894-merge-strings-alternately](https://github.com/Sam-Surya-Ajay/test1/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Sam-Surya-Ajay/test1/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1954-replace-all-digits-with-characters](https://github.com/Sam-Surya-Ajay/test1/tree/master/1954-replace-all-digits-with-characters) |
