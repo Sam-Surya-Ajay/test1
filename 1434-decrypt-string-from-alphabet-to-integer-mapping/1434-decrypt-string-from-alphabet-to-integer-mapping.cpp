@@ -15,8 +15,8 @@ public:
             }
             else
             {
-                int temp=((s[i-2]-'0')*10+(s[i-1]-'0'))-1;
-                char c='a'+temp;
+                int temp=((s[i-2]-'0')*10+(s[i-1]-'0'));
+                char c='a'+temp-1;
                 ans=c + ans;
                 i-=2;
             }
