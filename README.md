@@ -318,6 +318,7 @@
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Sam-Surya-Ajay/test1/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1894-merge-strings-alternately](https://github.com/Sam-Surya-Ajay/test1/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Sam-Surya-Ajay/test1/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1920-determine-color-of-a-chessboard-square](https://github.com/Sam-Surya-Ajay/test1/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1954-replace-all-digits-with-characters](https://github.com/Sam-Surya-Ajay/test1/tree/master/1954-replace-all-digits-with-characters) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Sam-Surya-Ajay/test1/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2226-rings-and-rods](https://github.com/Sam-Surya-Ajay/test1/tree/master/2226-rings-and-rods) |
@@ -376,6 +377,7 @@
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Sam-Surya-Ajay/test1/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Sam-Surya-Ajay/test1/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Sam-Surya-Ajay/test1/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1920-determine-color-of-a-chessboard-square](https://github.com/Sam-Surya-Ajay/test1/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Sam-Surya-Ajay/test1/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Sam-Surya-Ajay/test1/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2831-number-of-beautiful-pairs](https://github.com/Sam-Surya-Ajay/test1/tree/master/2831-number-of-beautiful-pairs) |
