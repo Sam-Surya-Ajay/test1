@@ -190,6 +190,7 @@
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sam-Surya-Ajay/test1/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sam-Surya-Ajay/test1/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [4058-compute-alternating-sum](https://github.com/Sam-Surya-Ajay/test1/tree/master/4058-compute-alternating-sum) |
+| [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Sam-Surya-Ajay/test1/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -239,6 +240,7 @@
 | [3516-design-neighbor-sum-service](https://github.com/Sam-Surya-Ajay/test1/tree/master/3516-design-neighbor-sum-service) |
 | [3519-find-the-number-of-winning-players](https://github.com/Sam-Surya-Ajay/test1/tree/master/3519-find-the-number-of-winning-players) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sam-Surya-Ajay/test1/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Sam-Surya-Ajay/test1/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
@@ -344,6 +346,7 @@
 | [2831-number-of-beautiful-pairs](https://github.com/Sam-Surya-Ajay/test1/tree/master/2831-number-of-beautiful-pairs) |
 | [3519-find-the-number-of-winning-players](https://github.com/Sam-Surya-Ajay/test1/tree/master/3519-find-the-number-of-winning-players) |
 | [3778-transform-array-by-parity](https://github.com/Sam-Surya-Ajay/test1/tree/master/3778-transform-array-by-parity) |
+| [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Sam-Surya-Ajay/test1/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Simulation
 |  |
 | ------- |
