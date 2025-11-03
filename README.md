@@ -318,6 +318,7 @@
 | [1341-split-a-string-in-balanced-strings](https://github.com/Sam-Surya-Ajay/test1/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Sam-Surya-Ajay/test1/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Sam-Surya-Ajay/test1/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
+| [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Sam-Surya-Ajay/test1/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1894-merge-strings-alternately](https://github.com/Sam-Surya-Ajay/test1/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Sam-Surya-Ajay/test1/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Sam-Surya-Ajay/test1/tree/master/1920-determine-color-of-a-chessboard-square) |
