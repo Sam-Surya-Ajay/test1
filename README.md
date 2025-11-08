@@ -464,6 +464,7 @@
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Sam-Surya-Ajay/test1/tree/master/0257-binary-tree-paths) |
 | [0654-maximum-binary-tree](https://github.com/Sam-Surya-Ajay/test1/tree/master/0654-maximum-binary-tree) |
+| [0975-range-sum-of-bst](https://github.com/Sam-Surya-Ajay/test1/tree/master/0975-range-sum-of-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sam-Surya-Ajay/test1/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
 |  |
@@ -475,6 +476,7 @@
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Sam-Surya-Ajay/test1/tree/master/0257-binary-tree-paths) |
 | [0654-maximum-binary-tree](https://github.com/Sam-Surya-Ajay/test1/tree/master/0654-maximum-binary-tree) |
+| [0975-range-sum-of-bst](https://github.com/Sam-Surya-Ajay/test1/tree/master/0975-range-sum-of-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sam-Surya-Ajay/test1/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Data Stream
 |  |
@@ -496,6 +498,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0975-range-sum-of-bst](https://github.com/Sam-Surya-Ajay/test1/tree/master/0975-range-sum-of-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sam-Surya-Ajay/test1/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Geometry
 |  |
@@ -520,6 +523,7 @@
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Sam-Surya-Ajay/test1/tree/master/0257-binary-tree-paths) |
+| [0975-range-sum-of-bst](https://github.com/Sam-Surya-Ajay/test1/tree/master/0975-range-sum-of-bst) |
 ## Trie
 |  |
 | ------- |
