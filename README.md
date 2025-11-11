@@ -469,6 +469,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Sam-Surya-Ajay/test1/tree/master/0094-binary-tree-inorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/Sam-Surya-Ajay/test1/tree/master/0257-binary-tree-paths) |
 | [0654-maximum-binary-tree](https://github.com/Sam-Surya-Ajay/test1/tree/master/0654-maximum-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Sam-Surya-Ajay/test1/tree/master/0783-search-in-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Sam-Surya-Ajay/test1/tree/master/0975-range-sum-of-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sam-Surya-Ajay/test1/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Sam-Surya-Ajay/test1/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -483,6 +484,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Sam-Surya-Ajay/test1/tree/master/0094-binary-tree-inorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/Sam-Surya-Ajay/test1/tree/master/0257-binary-tree-paths) |
 | [0654-maximum-binary-tree](https://github.com/Sam-Surya-Ajay/test1/tree/master/0654-maximum-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Sam-Surya-Ajay/test1/tree/master/0783-search-in-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Sam-Surya-Ajay/test1/tree/master/0975-range-sum-of-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sam-Surya-Ajay/test1/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Sam-Surya-Ajay/test1/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -506,6 +508,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/Sam-Surya-Ajay/test1/tree/master/0783-search-in-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Sam-Surya-Ajay/test1/tree/master/0975-range-sum-of-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sam-Surya-Ajay/test1/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Geometry
