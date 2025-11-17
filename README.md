@@ -95,6 +95,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Sam-Surya-Ajay/test1/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/Sam-Surya-Ajay/test1/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/Sam-Surya-Ajay/test1/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Sam-Surya-Ajay/test1/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Sam-Surya-Ajay/test1/tree/master/0088-merge-sorted-array) |
 | [0219-contains-duplicate-ii](https://github.com/Sam-Surya-Ajay/test1/tree/master/0219-contains-duplicate-ii) |
@@ -244,6 +245,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Sam-Surya-Ajay/test1/tree/master/0048-rotate-image) |
 | [0566-reshape-the-matrix](https://github.com/Sam-Surya-Ajay/test1/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/Sam-Surya-Ajay/test1/tree/master/0661-image-smoother) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Sam-Surya-Ajay/test1/tree/master/0825-max-increase-to-keep-city-skyline) |
@@ -372,6 +374,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Sam-Surya-Ajay/test1/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Sam-Surya-Ajay/test1/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Sam-Surya-Ajay/test1/tree/master/0066-plus-one) |
 | [0171-excel-sheet-column-number](https://github.com/Sam-Surya-Ajay/test1/tree/master/0171-excel-sheet-column-number) |
 | [0412-fizz-buzz](https://github.com/Sam-Surya-Ajay/test1/tree/master/0412-fizz-buzz) |
