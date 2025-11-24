@@ -187,6 +187,7 @@
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/Sam-Surya-Ajay/test1/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Sam-Surya-Ajay/test1/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Sam-Surya-Ajay/test1/tree/master/3731-sum-of-variable-length-subarrays) |
+| [3731-find-missing-elements](https://github.com/Sam-Surya-Ajay/test1/tree/master/3731-find-missing-elements) |
 | [3778-transform-array-by-parity](https://github.com/Sam-Surya-Ajay/test1/tree/master/3778-transform-array-by-parity) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sam-Surya-Ajay/test1/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sam-Surya-Ajay/test1/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
@@ -241,6 +242,7 @@
 | [3516-design-neighbor-sum-service](https://github.com/Sam-Surya-Ajay/test1/tree/master/3516-design-neighbor-sum-service) |
 | [3519-find-the-number-of-winning-players](https://github.com/Sam-Surya-Ajay/test1/tree/master/3519-find-the-number-of-winning-players) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sam-Surya-Ajay/test1/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3731-find-missing-elements](https://github.com/Sam-Surya-Ajay/test1/tree/master/3731-find-missing-elements) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Sam-Surya-Ajay/test1/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Matrix
 |  |
@@ -301,6 +303,7 @@
 | [2888-minimum-index-of-a-valid-split](https://github.com/Sam-Surya-Ajay/test1/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2892-check-if-array-is-good](https://github.com/Sam-Surya-Ajay/test1/tree/master/2892-check-if-array-is-good) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Sam-Surya-Ajay/test1/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3731-find-missing-elements](https://github.com/Sam-Surya-Ajay/test1/tree/master/3731-find-missing-elements) |
 | [3778-transform-array-by-parity](https://github.com/Sam-Surya-Ajay/test1/tree/master/3778-transform-array-by-parity) |
 ## String
 |  |
