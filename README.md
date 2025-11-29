@@ -225,6 +225,7 @@
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Sam-Surya-Ajay/test1/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1752-arithmetic-subarrays](https://github.com/Sam-Surya-Ajay/test1/tree/master/1752-arithmetic-subarrays) |
 | [1775-design-an-ordered-stream](https://github.com/Sam-Surya-Ajay/test1/tree/master/1775-design-an-ordered-stream) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Sam-Surya-Ajay/test1/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Sam-Surya-Ajay/test1/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Sam-Surya-Ajay/test1/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2226-rings-and-rods](https://github.com/Sam-Surya-Ajay/test1/tree/master/2226-rings-and-rods) |
@@ -333,6 +334,7 @@
 | [1894-merge-strings-alternately](https://github.com/Sam-Surya-Ajay/test1/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Sam-Surya-Ajay/test1/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Sam-Surya-Ajay/test1/tree/master/1920-determine-color-of-a-chessboard-square) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Sam-Surya-Ajay/test1/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1954-replace-all-digits-with-characters](https://github.com/Sam-Surya-Ajay/test1/tree/master/1954-replace-all-digits-with-characters) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Sam-Surya-Ajay/test1/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2226-rings-and-rods](https://github.com/Sam-Surya-Ajay/test1/tree/master/2226-rings-and-rods) |
@@ -356,6 +358,7 @@
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Sam-Surya-Ajay/test1/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Sam-Surya-Ajay/test1/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Sam-Surya-Ajay/test1/tree/master/1704-determine-if-string-halves-are-alike) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Sam-Surya-Ajay/test1/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2486-most-frequent-even-element](https://github.com/Sam-Surya-Ajay/test1/tree/master/2486-most-frequent-even-element) |
 | [2831-number-of-beautiful-pairs](https://github.com/Sam-Surya-Ajay/test1/tree/master/2831-number-of-beautiful-pairs) |
 | [3519-find-the-number-of-winning-players](https://github.com/Sam-Surya-Ajay/test1/tree/master/3519-find-the-number-of-winning-players) |
