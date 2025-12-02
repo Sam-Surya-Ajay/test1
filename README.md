@@ -174,6 +174,7 @@
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Sam-Surya-Ajay/test1/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/Sam-Surya-Ajay/test1/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3398-make-a-square-with-the-same-color](https://github.com/Sam-Surya-Ajay/test1/tree/master/3398-make-a-square-with-the-same-color) |
+| [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Sam-Surya-Ajay/test1/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Sam-Surya-Ajay/test1/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Sam-Surya-Ajay/test1/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Sam-Surya-Ajay/test1/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
