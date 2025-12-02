@@ -284,6 +284,7 @@
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Sam-Surya-Ajay/test1/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Sam-Surya-Ajay/test1/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Sam-Surya-Ajay/test1/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
+| [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Sam-Surya-Ajay/test1/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Sam-Surya-Ajay/test1/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Sam-Surya-Ajay/test1/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3055-maximum-odd-binary-number](https://github.com/Sam-Surya-Ajay/test1/tree/master/3055-maximum-odd-binary-number) |
@@ -343,6 +344,7 @@
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Sam-Surya-Ajay/test1/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Sam-Surya-Ajay/test1/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1954-replace-all-digits-with-characters](https://github.com/Sam-Surya-Ajay/test1/tree/master/1954-replace-all-digits-with-characters) |
+| [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Sam-Surya-Ajay/test1/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Sam-Surya-Ajay/test1/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2226-rings-and-rods](https://github.com/Sam-Surya-Ajay/test1/tree/master/2226-rings-and-rods) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Sam-Surya-Ajay/test1/tree/master/2244-number-of-laser-beams-in-a-bank) |
