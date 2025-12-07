@@ -357,6 +357,7 @@
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Sam-Surya-Ajay/test1/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/Sam-Surya-Ajay/test1/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Sam-Surya-Ajay/test1/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
+| [2710-remove-trailing-zeros-from-a-string](https://github.com/Sam-Surya-Ajay/test1/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2810-faulty-keyboard](https://github.com/Sam-Surya-Ajay/test1/tree/master/2810-faulty-keyboard) |
 | [3055-maximum-odd-binary-number](https://github.com/Sam-Surya-Ajay/test1/tree/master/3055-maximum-odd-binary-number) |
 | [3379-score-of-a-string](https://github.com/Sam-Surya-Ajay/test1/tree/master/3379-score-of-a-string) |
