@@ -364,6 +364,7 @@
 | [2810-faulty-keyboard](https://github.com/Sam-Surya-Ajay/test1/tree/master/2810-faulty-keyboard) |
 | [3019-number-of-changing-keys](https://github.com/Sam-Surya-Ajay/test1/tree/master/3019-number-of-changing-keys) |
 | [3055-maximum-odd-binary-number](https://github.com/Sam-Surya-Ajay/test1/tree/master/3055-maximum-odd-binary-number) |
+| [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Sam-Surya-Ajay/test1/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3174-clear-digits](https://github.com/Sam-Surya-Ajay/test1/tree/master/3174-clear-digits) |
 | [3340-check-balanced-string](https://github.com/Sam-Surya-Ajay/test1/tree/master/3340-check-balanced-string) |
 | [3379-score-of-a-string](https://github.com/Sam-Surya-Ajay/test1/tree/master/3379-score-of-a-string) |
@@ -402,6 +403,7 @@
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Sam-Surya-Ajay/test1/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2791-find-the-losers-of-the-circular-game](https://github.com/Sam-Surya-Ajay/test1/tree/master/2791-find-the-losers-of-the-circular-game) |
 | [2810-faulty-keyboard](https://github.com/Sam-Surya-Ajay/test1/tree/master/2810-faulty-keyboard) |
+| [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Sam-Surya-Ajay/test1/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3174-clear-digits](https://github.com/Sam-Surya-Ajay/test1/tree/master/3174-clear-digits) |
 | [3516-design-neighbor-sum-service](https://github.com/Sam-Surya-Ajay/test1/tree/master/3516-design-neighbor-sum-service) |
 | [3533-snake-in-matrix](https://github.com/Sam-Surya-Ajay/test1/tree/master/3533-snake-in-matrix) |
