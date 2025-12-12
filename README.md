@@ -369,6 +369,7 @@
 | [3055-maximum-odd-binary-number](https://github.com/Sam-Surya-Ajay/test1/tree/master/3055-maximum-odd-binary-number) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Sam-Surya-Ajay/test1/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3174-clear-digits](https://github.com/Sam-Surya-Ajay/test1/tree/master/3174-clear-digits) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Sam-Surya-Ajay/test1/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3340-check-balanced-string](https://github.com/Sam-Surya-Ajay/test1/tree/master/3340-check-balanced-string) |
 | [3379-score-of-a-string](https://github.com/Sam-Surya-Ajay/test1/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Sam-Surya-Ajay/test1/tree/master/3412-permutation-difference-between-two-strings) |
@@ -482,6 +483,7 @@
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Sam-Surya-Ajay/test1/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Sam-Surya-Ajay/test1/tree/master/0643-maximum-average-subarray-i) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Sam-Surya-Ajay/test1/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 ## Design
 |  |
 | ------- |
