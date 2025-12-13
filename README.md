@@ -250,6 +250,7 @@
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Sam-Surya-Ajay/test1/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3516-design-neighbor-sum-service](https://github.com/Sam-Surya-Ajay/test1/tree/master/3516-design-neighbor-sum-service) |
 | [3519-find-the-number-of-winning-players](https://github.com/Sam-Surya-Ajay/test1/tree/master/3519-find-the-number-of-winning-players) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Sam-Surya-Ajay/test1/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sam-Surya-Ajay/test1/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Sam-Surya-Ajay/test1/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3731-find-missing-elements](https://github.com/Sam-Surya-Ajay/test1/tree/master/3731-find-missing-elements) |
@@ -374,6 +375,7 @@
 | [3379-score-of-a-string](https://github.com/Sam-Surya-Ajay/test1/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Sam-Surya-Ajay/test1/tree/master/3412-permutation-difference-between-two-strings) |
 | [3533-snake-in-matrix](https://github.com/Sam-Surya-Ajay/test1/tree/master/3533-snake-in-matrix) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Sam-Surya-Ajay/test1/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3567-convert-date-to-binary](https://github.com/Sam-Surya-Ajay/test1/tree/master/3567-convert-date-to-binary) |
 ## Counting
 |  |
@@ -388,6 +390,7 @@
 | [2486-most-frequent-even-element](https://github.com/Sam-Surya-Ajay/test1/tree/master/2486-most-frequent-even-element) |
 | [2831-number-of-beautiful-pairs](https://github.com/Sam-Surya-Ajay/test1/tree/master/2831-number-of-beautiful-pairs) |
 | [3519-find-the-number-of-winning-players](https://github.com/Sam-Surya-Ajay/test1/tree/master/3519-find-the-number-of-winning-players) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/Sam-Surya-Ajay/test1/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3778-transform-array-by-parity](https://github.com/Sam-Surya-Ajay/test1/tree/master/3778-transform-array-by-parity) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Sam-Surya-Ajay/test1/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Simulation
