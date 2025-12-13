@@ -374,6 +374,7 @@
 | [3340-check-balanced-string](https://github.com/Sam-Surya-Ajay/test1/tree/master/3340-check-balanced-string) |
 | [3379-score-of-a-string](https://github.com/Sam-Surya-Ajay/test1/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Sam-Surya-Ajay/test1/tree/master/3412-permutation-difference-between-two-strings) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Sam-Surya-Ajay/test1/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3533-snake-in-matrix](https://github.com/Sam-Surya-Ajay/test1/tree/master/3533-snake-in-matrix) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Sam-Surya-Ajay/test1/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3567-convert-date-to-binary](https://github.com/Sam-Surya-Ajay/test1/tree/master/3567-convert-date-to-binary) |
@@ -413,6 +414,7 @@
 | [2810-faulty-keyboard](https://github.com/Sam-Surya-Ajay/test1/tree/master/2810-faulty-keyboard) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Sam-Surya-Ajay/test1/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3174-clear-digits](https://github.com/Sam-Surya-Ajay/test1/tree/master/3174-clear-digits) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Sam-Surya-Ajay/test1/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3516-design-neighbor-sum-service](https://github.com/Sam-Surya-Ajay/test1/tree/master/3516-design-neighbor-sum-service) |
 | [3533-snake-in-matrix](https://github.com/Sam-Surya-Ajay/test1/tree/master/3533-snake-in-matrix) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Sam-Surya-Ajay/test1/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -441,6 +443,7 @@
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Sam-Surya-Ajay/test1/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2831-number-of-beautiful-pairs](https://github.com/Sam-Surya-Ajay/test1/tree/master/2831-number-of-beautiful-pairs) |
 | [3055-maximum-odd-binary-number](https://github.com/Sam-Surya-Ajay/test1/tree/master/3055-maximum-odd-binary-number) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Sam-Surya-Ajay/test1/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sam-Surya-Ajay/test1/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Sam-Surya-Ajay/test1/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Sam-Surya-Ajay/test1/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -453,6 +456,7 @@
 |  |
 | ------- |
 | [2831-number-of-beautiful-pairs](https://github.com/Sam-Surya-Ajay/test1/tree/master/2831-number-of-beautiful-pairs) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Sam-Surya-Ajay/test1/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -505,6 +509,7 @@
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Sam-Surya-Ajay/test1/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Sam-Surya-Ajay/test1/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Divide and Conquer
 |  |
 | ------- |
