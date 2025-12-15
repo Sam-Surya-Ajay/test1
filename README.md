@@ -356,6 +356,7 @@
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/Sam-Surya-Ajay/test1/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2226-rings-and-rods](https://github.com/Sam-Surya-Ajay/test1/tree/master/2226-rings-and-rods) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Sam-Surya-Ajay/test1/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2278-percentage-of-letter-in-string](https://github.com/Sam-Surya-Ajay/test1/tree/master/2278-percentage-of-letter-in-string) |
 | [2401-count-asterisks](https://github.com/Sam-Surya-Ajay/test1/tree/master/2401-count-asterisks) |
 | [2406-decode-the-message](https://github.com/Sam-Surya-Ajay/test1/tree/master/2406-decode-the-message) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Sam-Surya-Ajay/test1/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
