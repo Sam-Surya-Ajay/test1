@@ -351,6 +351,7 @@
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Sam-Surya-Ajay/test1/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Sam-Surya-Ajay/test1/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1954-replace-all-digits-with-characters](https://github.com/Sam-Surya-Ajay/test1/tree/master/1954-replace-all-digits-with-characters) |
+| [1957-delete-characters-to-make-fancy-string](https://github.com/Sam-Surya-Ajay/test1/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Sam-Surya-Ajay/test1/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Sam-Surya-Ajay/test1/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/Sam-Surya-Ajay/test1/tree/master/2138-divide-a-string-into-groups-of-size-k) |
