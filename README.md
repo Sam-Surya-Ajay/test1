@@ -235,6 +235,7 @@
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Sam-Surya-Ajay/test1/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2226-rings-and-rods](https://github.com/Sam-Surya-Ajay/test1/tree/master/2226-rings-and-rods) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Sam-Surya-Ajay/test1/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [2351-first-letter-to-appear-twice](https://github.com/Sam-Surya-Ajay/test1/tree/master/2351-first-letter-to-appear-twice) |
 | [2406-decode-the-message](https://github.com/Sam-Surya-Ajay/test1/tree/master/2406-decode-the-message) |
 | [2486-most-frequent-even-element](https://github.com/Sam-Surya-Ajay/test1/tree/master/2486-most-frequent-even-element) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Sam-Surya-Ajay/test1/tree/master/2566-number-of-unequal-triplets-in-array) |
@@ -358,6 +359,7 @@
 | [2226-rings-and-rods](https://github.com/Sam-Surya-Ajay/test1/tree/master/2226-rings-and-rods) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Sam-Surya-Ajay/test1/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2278-percentage-of-letter-in-string](https://github.com/Sam-Surya-Ajay/test1/tree/master/2278-percentage-of-letter-in-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/Sam-Surya-Ajay/test1/tree/master/2351-first-letter-to-appear-twice) |
 | [2401-count-asterisks](https://github.com/Sam-Surya-Ajay/test1/tree/master/2401-count-asterisks) |
 | [2406-decode-the-message](https://github.com/Sam-Surya-Ajay/test1/tree/master/2406-decode-the-message) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Sam-Surya-Ajay/test1/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
@@ -391,6 +393,7 @@
 | [1370-increasing-decreasing-string](https://github.com/Sam-Surya-Ajay/test1/tree/master/1370-increasing-decreasing-string) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Sam-Surya-Ajay/test1/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Sam-Surya-Ajay/test1/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2351-first-letter-to-appear-twice](https://github.com/Sam-Surya-Ajay/test1/tree/master/2351-first-letter-to-appear-twice) |
 | [2486-most-frequent-even-element](https://github.com/Sam-Surya-Ajay/test1/tree/master/2486-most-frequent-even-element) |
 | [2831-number-of-beautiful-pairs](https://github.com/Sam-Surya-Ajay/test1/tree/master/2831-number-of-beautiful-pairs) |
 | [3519-find-the-number-of-winning-players](https://github.com/Sam-Surya-Ajay/test1/tree/master/3519-find-the-number-of-winning-players) |
@@ -484,6 +487,7 @@
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sam-Surya-Ajay/test1/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Sam-Surya-Ajay/test1/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Sam-Surya-Ajay/test1/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2351-first-letter-to-appear-twice](https://github.com/Sam-Surya-Ajay/test1/tree/master/2351-first-letter-to-appear-twice) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Sam-Surya-Ajay/test1/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/Sam-Surya-Ajay/test1/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Sam-Surya-Ajay/test1/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
