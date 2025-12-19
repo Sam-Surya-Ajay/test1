@@ -354,6 +354,7 @@
 | [1954-replace-all-digits-with-characters](https://github.com/Sam-Surya-Ajay/test1/tree/master/1954-replace-all-digits-with-characters) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/Sam-Surya-Ajay/test1/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Sam-Surya-Ajay/test1/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Sam-Surya-Ajay/test1/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Sam-Surya-Ajay/test1/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/Sam-Surya-Ajay/test1/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2226-rings-and-rods](https://github.com/Sam-Surya-Ajay/test1/tree/master/2226-rings-and-rods) |
