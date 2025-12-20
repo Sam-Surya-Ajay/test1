@@ -115,6 +115,7 @@
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Sam-Surya-Ajay/test1/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Sam-Surya-Ajay/test1/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0928-surface-area-of-3d-shapes](https://github.com/Sam-Surya-Ajay/test1/tree/master/0928-surface-area-of-3d-shapes) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Sam-Surya-Ajay/test1/tree/master/0944-delete-columns-to-make-sorted) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Sam-Surya-Ajay/test1/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1022-unique-paths-iii](https://github.com/Sam-Surya-Ajay/test1/tree/master/1022-unique-paths-iii) |
 | [1031-add-to-array-form-of-integer](https://github.com/Sam-Surya-Ajay/test1/tree/master/1031-add-to-array-form-of-integer) |
@@ -338,6 +339,7 @@
 | [0782-jewels-and-stones](https://github.com/Sam-Surya-Ajay/test1/tree/master/0782-jewels-and-stones) |
 | [0851-goat-latin](https://github.com/Sam-Surya-Ajay/test1/tree/master/0851-goat-latin) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Sam-Surya-Ajay/test1/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Sam-Surya-Ajay/test1/tree/master/0944-delete-columns-to-make-sorted) |
 | [1205-defanging-an-ip-address](https://github.com/Sam-Surya-Ajay/test1/tree/master/1205-defanging-an-ip-address) |
 | [1332-remove-palindromic-subsequences](https://github.com/Sam-Surya-Ajay/test1/tree/master/1332-remove-palindromic-subsequences) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Sam-Surya-Ajay/test1/tree/master/1341-split-a-string-in-balanced-strings) |
