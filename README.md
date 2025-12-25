@@ -176,6 +176,7 @@
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Sam-Surya-Ajay/test1/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/Sam-Surya-Ajay/test1/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3398-make-a-square-with-the-same-color](https://github.com/Sam-Surya-Ajay/test1/tree/master/3398-make-a-square-with-the-same-color) |
+| [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Sam-Surya-Ajay/test1/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Sam-Surya-Ajay/test1/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Sam-Surya-Ajay/test1/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Sam-Surya-Ajay/test1/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -275,6 +276,7 @@
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Sam-Surya-Ajay/test1/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Sam-Surya-Ajay/test1/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [3398-make-a-square-with-the-same-color](https://github.com/Sam-Surya-Ajay/test1/tree/master/3398-make-a-square-with-the-same-color) |
+| [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Sam-Surya-Ajay/test1/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3516-design-neighbor-sum-service](https://github.com/Sam-Surya-Ajay/test1/tree/master/3516-design-neighbor-sum-service) |
 ## Enumeration
 |  |
@@ -297,6 +299,7 @@
 | [2697-lexicographically-smallest-palindrome](https://github.com/Sam-Surya-Ajay/test1/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3055-maximum-odd-binary-number](https://github.com/Sam-Surya-Ajay/test1/tree/master/3055-maximum-odd-binary-number) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Sam-Surya-Ajay/test1/tree/master/3074-apple-redistribution-into-boxes) |
+| [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Sam-Surya-Ajay/test1/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Sam-Surya-Ajay/test1/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Sorting
 |  |
