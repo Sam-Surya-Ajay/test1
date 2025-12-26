@@ -194,6 +194,7 @@
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Sam-Surya-Ajay/test1/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Sam-Surya-Ajay/test1/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3731-find-missing-elements](https://github.com/Sam-Surya-Ajay/test1/tree/master/3731-find-missing-elements) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Sam-Surya-Ajay/test1/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3778-transform-array-by-parity](https://github.com/Sam-Surya-Ajay/test1/tree/master/3778-transform-array-by-parity) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sam-Surya-Ajay/test1/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sam-Surya-Ajay/test1/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
@@ -327,6 +328,7 @@
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Sam-Surya-Ajay/test1/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Sam-Surya-Ajay/test1/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3731-find-missing-elements](https://github.com/Sam-Surya-Ajay/test1/tree/master/3731-find-missing-elements) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Sam-Surya-Ajay/test1/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3778-transform-array-by-parity](https://github.com/Sam-Surya-Ajay/test1/tree/master/3778-transform-array-by-parity) |
 ## String
 |  |
