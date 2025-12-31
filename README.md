@@ -194,6 +194,7 @@
 | [3582-find-indices-of-stable-mountains](https://github.com/Sam-Surya-Ajay/test1/tree/master/3582-find-indices-of-stable-mountains) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/Sam-Surya-Ajay/test1/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Sam-Surya-Ajay/test1/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3663-find-the-least-frequent-digit](https://github.com/Sam-Surya-Ajay/test1/tree/master/3663-find-the-least-frequent-digit) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Sam-Surya-Ajay/test1/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Sam-Surya-Ajay/test1/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3731-find-missing-elements](https://github.com/Sam-Surya-Ajay/test1/tree/master/3731-find-missing-elements) |
@@ -263,6 +264,7 @@
 | [3519-find-the-number-of-winning-players](https://github.com/Sam-Surya-Ajay/test1/tree/master/3519-find-the-number-of-winning-players) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Sam-Surya-Ajay/test1/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sam-Surya-Ajay/test1/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3663-find-the-least-frequent-digit](https://github.com/Sam-Surya-Ajay/test1/tree/master/3663-find-the-least-frequent-digit) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Sam-Surya-Ajay/test1/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3731-find-missing-elements](https://github.com/Sam-Surya-Ajay/test1/tree/master/3731-find-missing-elements) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Sam-Surya-Ajay/test1/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
@@ -417,6 +419,7 @@
 | [2831-number-of-beautiful-pairs](https://github.com/Sam-Surya-Ajay/test1/tree/master/2831-number-of-beautiful-pairs) |
 | [3519-find-the-number-of-winning-players](https://github.com/Sam-Surya-Ajay/test1/tree/master/3519-find-the-number-of-winning-players) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Sam-Surya-Ajay/test1/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3663-find-the-least-frequent-digit](https://github.com/Sam-Surya-Ajay/test1/tree/master/3663-find-the-least-frequent-digit) |
 | [3778-transform-array-by-parity](https://github.com/Sam-Surya-Ajay/test1/tree/master/3778-transform-array-by-parity) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Sam-Surya-Ajay/test1/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Simulation
@@ -477,6 +480,7 @@
 | [3567-convert-date-to-binary](https://github.com/Sam-Surya-Ajay/test1/tree/master/3567-convert-date-to-binary) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sam-Surya-Ajay/test1/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Sam-Surya-Ajay/test1/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3663-find-the-least-frequent-digit](https://github.com/Sam-Surya-Ajay/test1/tree/master/3663-find-the-least-frequent-digit) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sam-Surya-Ajay/test1/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sam-Surya-Ajay/test1/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Number Theory
