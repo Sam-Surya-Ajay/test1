@@ -182,6 +182,7 @@
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Sam-Surya-Ajay/test1/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Sam-Surya-Ajay/test1/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Sam-Surya-Ajay/test1/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3452-sum-of-good-numbers](https://github.com/Sam-Surya-Ajay/test1/tree/master/3452-sum-of-good-numbers) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Sam-Surya-Ajay/test1/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sam-Surya-Ajay/test1/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3477-fruits-into-baskets-ii](https://github.com/Sam-Surya-Ajay/test1/tree/master/3477-fruits-into-baskets-ii) |
