@@ -116,6 +116,7 @@
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Sam-Surya-Ajay/test1/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0928-surface-area-of-3d-shapes](https://github.com/Sam-Surya-Ajay/test1/tree/master/0928-surface-area-of-3d-shapes) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Sam-Surya-Ajay/test1/tree/master/0944-delete-columns-to-make-sorted) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Sam-Surya-Ajay/test1/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Sam-Surya-Ajay/test1/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1022-unique-paths-iii](https://github.com/Sam-Surya-Ajay/test1/tree/master/1022-unique-paths-iii) |
 | [1031-add-to-array-form-of-integer](https://github.com/Sam-Surya-Ajay/test1/tree/master/1031-add-to-array-form-of-integer) |
@@ -234,6 +235,7 @@
 | [0645-set-mismatch](https://github.com/Sam-Surya-Ajay/test1/tree/master/0645-set-mismatch) |
 | [0782-jewels-and-stones](https://github.com/Sam-Surya-Ajay/test1/tree/master/0782-jewels-and-stones) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Sam-Surya-Ajay/test1/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Sam-Surya-Ajay/test1/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1039-find-the-town-judge](https://github.com/Sam-Surya-Ajay/test1/tree/master/1039-find-the-town-judge) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Sam-Surya-Ajay/test1/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1370-increasing-decreasing-string](https://github.com/Sam-Surya-Ajay/test1/tree/master/1370-increasing-decreasing-string) |
