@@ -187,6 +187,7 @@
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Sam-Surya-Ajay/test1/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sam-Surya-Ajay/test1/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3477-fruits-into-baskets-ii](https://github.com/Sam-Surya-Ajay/test1/tree/master/3477-fruits-into-baskets-ii) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Sam-Surya-Ajay/test1/tree/master/3483-unique-3-digit-even-numbers) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Sam-Surya-Ajay/test1/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3516-design-neighbor-sum-service](https://github.com/Sam-Surya-Ajay/test1/tree/master/3516-design-neighbor-sum-service) |
 | [3519-find-the-number-of-winning-players](https://github.com/Sam-Surya-Ajay/test1/tree/master/3519-find-the-number-of-winning-players) |
@@ -263,6 +264,7 @@
 | [3412-permutation-difference-between-two-strings](https://github.com/Sam-Surya-Ajay/test1/tree/master/3412-permutation-difference-between-two-strings) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Sam-Surya-Ajay/test1/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Sam-Surya-Ajay/test1/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Sam-Surya-Ajay/test1/tree/master/3483-unique-3-digit-even-numbers) |
 | [3516-design-neighbor-sum-service](https://github.com/Sam-Surya-Ajay/test1/tree/master/3516-design-neighbor-sum-service) |
 | [3519-find-the-number-of-winning-players](https://github.com/Sam-Surya-Ajay/test1/tree/master/3519-find-the-number-of-winning-players) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Sam-Surya-Ajay/test1/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -296,6 +298,7 @@
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Sam-Surya-Ajay/test1/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3398-make-a-square-with-the-same-color](https://github.com/Sam-Surya-Ajay/test1/tree/master/3398-make-a-square-with-the-same-color) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Sam-Surya-Ajay/test1/tree/master/3483-unique-3-digit-even-numbers) |
 ## Greedy
 |  |
 | ------- |
@@ -652,4 +655,8 @@
 |  |
 | ------- |
 | [3477-fruits-into-baskets-ii](https://github.com/Sam-Surya-Ajay/test1/tree/master/3477-fruits-into-baskets-ii) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Sam-Surya-Ajay/test1/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
