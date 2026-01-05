@@ -227,6 +227,7 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sam-Surya-Ajay/test1/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Sam-Surya-Ajay/test1/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Sam-Surya-Ajay/test1/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Sam-Surya-Ajay/test1/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -410,6 +411,7 @@
 | [3533-snake-in-matrix](https://github.com/Sam-Surya-Ajay/test1/tree/master/3533-snake-in-matrix) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Sam-Surya-Ajay/test1/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3567-convert-date-to-binary](https://github.com/Sam-Surya-Ajay/test1/tree/master/3567-convert-date-to-binary) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Sam-Surya-Ajay/test1/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Counting
 |  |
 | ------- |
@@ -487,6 +489,7 @@
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sam-Surya-Ajay/test1/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Sam-Surya-Ajay/test1/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3663-find-the-least-frequent-digit](https://github.com/Sam-Surya-Ajay/test1/tree/master/3663-find-the-least-frequent-digit) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Sam-Surya-Ajay/test1/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sam-Surya-Ajay/test1/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sam-Surya-Ajay/test1/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Number Theory
@@ -523,6 +526,7 @@
 | [3249-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Sam-Surya-Ajay/test1/tree/master/3249-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Sam-Surya-Ajay/test1/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/Sam-Surya-Ajay/test1/tree/master/3605-construct-the-minimum-bitwise-array-i) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Sam-Surya-Ajay/test1/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Sliding Window
 |  |
 | ------- |
