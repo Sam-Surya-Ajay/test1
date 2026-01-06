@@ -250,6 +250,7 @@
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Sam-Surya-Ajay/test1/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2226-rings-and-rods](https://github.com/Sam-Surya-Ajay/test1/tree/master/2226-rings-and-rods) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Sam-Surya-Ajay/test1/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Sam-Surya-Ajay/test1/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2351-first-letter-to-appear-twice](https://github.com/Sam-Surya-Ajay/test1/tree/master/2351-first-letter-to-appear-twice) |
 | [2406-decode-the-message](https://github.com/Sam-Surya-Ajay/test1/tree/master/2406-decode-the-message) |
 | [2486-most-frequent-even-element](https://github.com/Sam-Surya-Ajay/test1/tree/master/2486-most-frequent-even-element) |
@@ -387,6 +388,7 @@
 | [2226-rings-and-rods](https://github.com/Sam-Surya-Ajay/test1/tree/master/2226-rings-and-rods) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Sam-Surya-Ajay/test1/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2278-percentage-of-letter-in-string](https://github.com/Sam-Surya-Ajay/test1/tree/master/2278-percentage-of-letter-in-string) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Sam-Surya-Ajay/test1/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2351-first-letter-to-appear-twice](https://github.com/Sam-Surya-Ajay/test1/tree/master/2351-first-letter-to-appear-twice) |
 | [2401-count-asterisks](https://github.com/Sam-Surya-Ajay/test1/tree/master/2401-count-asterisks) |
 | [2406-decode-the-message](https://github.com/Sam-Surya-Ajay/test1/tree/master/2406-decode-the-message) |
@@ -422,6 +424,7 @@
 | [1370-increasing-decreasing-string](https://github.com/Sam-Surya-Ajay/test1/tree/master/1370-increasing-decreasing-string) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Sam-Surya-Ajay/test1/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Sam-Surya-Ajay/test1/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Sam-Surya-Ajay/test1/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2351-first-letter-to-appear-twice](https://github.com/Sam-Surya-Ajay/test1/tree/master/2351-first-letter-to-appear-twice) |
 | [2486-most-frequent-even-element](https://github.com/Sam-Surya-Ajay/test1/tree/master/2486-most-frequent-even-element) |
 | [2831-number-of-beautiful-pairs](https://github.com/Sam-Surya-Ajay/test1/tree/master/2831-number-of-beautiful-pairs) |
