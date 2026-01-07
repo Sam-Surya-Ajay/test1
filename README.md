@@ -365,6 +365,7 @@
 | [0851-goat-latin](https://github.com/Sam-Surya-Ajay/test1/tree/master/0851-goat-latin) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Sam-Surya-Ajay/test1/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Sam-Surya-Ajay/test1/tree/master/0944-delete-columns-to-make-sorted) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sam-Surya-Ajay/test1/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1205-defanging-an-ip-address](https://github.com/Sam-Surya-Ajay/test1/tree/master/1205-defanging-an-ip-address) |
 | [1332-remove-palindromic-subsequences](https://github.com/Sam-Surya-Ajay/test1/tree/master/1332-remove-palindromic-subsequences) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Sam-Surya-Ajay/test1/tree/master/1341-split-a-string-in-balanced-strings) |
@@ -564,6 +565,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sam-Surya-Ajay/test1/tree/master/0094-binary-tree-inorder-traversal) |
 | [0654-maximum-binary-tree](https://github.com/Sam-Surya-Ajay/test1/tree/master/0654-maximum-binary-tree) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sam-Surya-Ajay/test1/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sam-Surya-Ajay/test1/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Sam-Surya-Ajay/test1/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/Sam-Surya-Ajay/test1/tree/master/3174-clear-digits) |
