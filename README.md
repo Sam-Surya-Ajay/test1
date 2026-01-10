@@ -247,6 +247,7 @@
 | [1775-design-an-ordered-stream](https://github.com/Sam-Surya-Ajay/test1/tree/master/1775-design-an-ordered-stream) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Sam-Surya-Ajay/test1/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Sam-Surya-Ajay/test1/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/Sam-Surya-Ajay/test1/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Sam-Surya-Ajay/test1/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2226-rings-and-rods](https://github.com/Sam-Surya-Ajay/test1/tree/master/2226-rings-and-rods) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Sam-Surya-Ajay/test1/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
@@ -383,6 +384,7 @@
 | [1957-delete-characters-to-make-fancy-string](https://github.com/Sam-Surya-Ajay/test1/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Sam-Surya-Ajay/test1/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Sam-Surya-Ajay/test1/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/Sam-Surya-Ajay/test1/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Sam-Surya-Ajay/test1/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Sam-Surya-Ajay/test1/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/Sam-Surya-Ajay/test1/tree/master/2138-divide-a-string-into-groups-of-size-k) |
