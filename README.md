@@ -390,6 +390,7 @@
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/Sam-Surya-Ajay/test1/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2226-rings-and-rods](https://github.com/Sam-Surya-Ajay/test1/tree/master/2226-rings-and-rods) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Sam-Surya-Ajay/test1/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2264-largest-3-same-digit-number-in-string](https://github.com/Sam-Surya-Ajay/test1/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2278-percentage-of-letter-in-string](https://github.com/Sam-Surya-Ajay/test1/tree/master/2278-percentage-of-letter-in-string) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Sam-Surya-Ajay/test1/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2351-first-letter-to-appear-twice](https://github.com/Sam-Surya-Ajay/test1/tree/master/2351-first-letter-to-appear-twice) |
