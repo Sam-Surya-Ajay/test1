@@ -252,6 +252,7 @@
 | [2226-rings-and-rods](https://github.com/Sam-Surya-Ajay/test1/tree/master/2226-rings-and-rods) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Sam-Surya-Ajay/test1/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Sam-Surya-Ajay/test1/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Sam-Surya-Ajay/test1/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2351-first-letter-to-appear-twice](https://github.com/Sam-Surya-Ajay/test1/tree/master/2351-first-letter-to-appear-twice) |
 | [2406-decode-the-message](https://github.com/Sam-Surya-Ajay/test1/tree/master/2406-decode-the-message) |
 | [2486-most-frequent-even-element](https://github.com/Sam-Surya-Ajay/test1/tree/master/2486-most-frequent-even-element) |
@@ -300,6 +301,7 @@
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Sam-Surya-Ajay/test1/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Sam-Surya-Ajay/test1/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [3398-make-a-square-with-the-same-color](https://github.com/Sam-Surya-Ajay/test1/tree/master/3398-make-a-square-with-the-same-color) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sam-Surya-Ajay/test1/tree/master/3483-unique-3-digit-even-numbers) |
 ## Greedy
@@ -393,6 +395,7 @@
 | [2264-largest-3-same-digit-number-in-string](https://github.com/Sam-Surya-Ajay/test1/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2278-percentage-of-letter-in-string](https://github.com/Sam-Surya-Ajay/test1/tree/master/2278-percentage-of-letter-in-string) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Sam-Surya-Ajay/test1/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Sam-Surya-Ajay/test1/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2351-first-letter-to-appear-twice](https://github.com/Sam-Surya-Ajay/test1/tree/master/2351-first-letter-to-appear-twice) |
 | [2401-count-asterisks](https://github.com/Sam-Surya-Ajay/test1/tree/master/2401-count-asterisks) |
 | [2406-decode-the-message](https://github.com/Sam-Surya-Ajay/test1/tree/master/2406-decode-the-message) |
