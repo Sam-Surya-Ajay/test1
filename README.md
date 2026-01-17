@@ -420,6 +420,7 @@
 | [3533-snake-in-matrix](https://github.com/Sam-Surya-Ajay/test1/tree/master/3533-snake-in-matrix) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Sam-Surya-Ajay/test1/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3567-convert-date-to-binary](https://github.com/Sam-Surya-Ajay/test1/tree/master/3567-convert-date-to-binary) |
+| [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/Sam-Surya-Ajay/test1/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Sam-Surya-Ajay/test1/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Counting
 |  |
@@ -497,6 +498,7 @@
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Sam-Surya-Ajay/test1/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3567-convert-date-to-binary](https://github.com/Sam-Surya-Ajay/test1/tree/master/3567-convert-date-to-binary) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sam-Surya-Ajay/test1/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/Sam-Surya-Ajay/test1/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Sam-Surya-Ajay/test1/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3663-find-the-least-frequent-digit](https://github.com/Sam-Surya-Ajay/test1/tree/master/3663-find-the-least-frequent-digit) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Sam-Surya-Ajay/test1/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
