@@ -400,6 +400,7 @@
 | [2401-count-asterisks](https://github.com/Sam-Surya-Ajay/test1/tree/master/2401-count-asterisks) |
 | [2406-decode-the-message](https://github.com/Sam-Surya-Ajay/test1/tree/master/2406-decode-the-message) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/Sam-Surya-Ajay/test1/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
+| [2490-circular-sentence](https://github.com/Sam-Surya-Ajay/test1/tree/master/2490-circular-sentence) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/Sam-Surya-Ajay/test1/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Sam-Surya-Ajay/test1/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Sam-Surya-Ajay/test1/tree/master/2696-minimum-string-length-after-removing-substrings) |
