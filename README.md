@@ -318,6 +318,7 @@
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Sam-Surya-Ajay/test1/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Sam-Surya-Ajay/test1/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Sam-Surya-Ajay/test1/tree/master/2697-lexicographically-smallest-palindrome) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sam-Surya-Ajay/test1/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3055-maximum-odd-binary-number](https://github.com/Sam-Surya-Ajay/test1/tree/master/3055-maximum-odd-binary-number) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Sam-Surya-Ajay/test1/tree/master/3074-apple-redistribution-into-boxes) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Sam-Surya-Ajay/test1/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
@@ -408,6 +409,7 @@
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Sam-Surya-Ajay/test1/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2716-minimize-string-length](https://github.com/Sam-Surya-Ajay/test1/tree/master/2716-minimize-string-length) |
 | [2810-faulty-keyboard](https://github.com/Sam-Surya-Ajay/test1/tree/master/2810-faulty-keyboard) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sam-Surya-Ajay/test1/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3019-number-of-changing-keys](https://github.com/Sam-Surya-Ajay/test1/tree/master/3019-number-of-changing-keys) |
 | [3055-maximum-odd-binary-number](https://github.com/Sam-Surya-Ajay/test1/tree/master/3055-maximum-odd-binary-number) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Sam-Surya-Ajay/test1/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
@@ -492,6 +494,7 @@
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Sam-Surya-Ajay/test1/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Sam-Surya-Ajay/test1/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2831-number-of-beautiful-pairs](https://github.com/Sam-Surya-Ajay/test1/tree/master/2831-number-of-beautiful-pairs) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sam-Surya-Ajay/test1/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3055-maximum-odd-binary-number](https://github.com/Sam-Surya-Ajay/test1/tree/master/3055-maximum-odd-binary-number) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Sam-Surya-Ajay/test1/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sam-Surya-Ajay/test1/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
