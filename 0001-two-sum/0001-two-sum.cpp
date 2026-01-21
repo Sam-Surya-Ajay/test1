@@ -13,6 +13,7 @@ public:
             {
                 ans[0]=i;
                 ans[1]=m[temp];
+                return ans;
             }
             else
             {
