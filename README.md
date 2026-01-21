@@ -93,6 +93,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sam-Surya-Ajay/test1/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Sam-Surya-Ajay/test1/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/Sam-Surya-Ajay/test1/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Sam-Surya-Ajay/test1/tree/master/0048-rotate-image) |
@@ -232,6 +233,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sam-Surya-Ajay/test1/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Sam-Surya-Ajay/test1/tree/master/0013-roman-to-integer) |
 | [0219-contains-duplicate-ii](https://github.com/Sam-Surya-Ajay/test1/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sam-Surya-Ajay/test1/tree/master/0387-first-unique-character-in-a-string) |
