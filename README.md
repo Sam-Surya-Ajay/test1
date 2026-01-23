@@ -115,6 +115,7 @@
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Sam-Surya-Ajay/test1/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Sam-Surya-Ajay/test1/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Sam-Surya-Ajay/test1/tree/master/0825-max-increase-to-keep-city-skyline) |
+| [0904-fruit-into-baskets](https://github.com/Sam-Surya-Ajay/test1/tree/master/0904-fruit-into-baskets) |
 | [0928-surface-area-of-3d-shapes](https://github.com/Sam-Surya-Ajay/test1/tree/master/0928-surface-area-of-3d-shapes) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Sam-Surya-Ajay/test1/tree/master/0944-delete-columns-to-make-sorted) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Sam-Surya-Ajay/test1/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -240,6 +241,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Sam-Surya-Ajay/test1/tree/master/0387-first-unique-character-in-a-string) |
 | [0645-set-mismatch](https://github.com/Sam-Surya-Ajay/test1/tree/master/0645-set-mismatch) |
 | [0782-jewels-and-stones](https://github.com/Sam-Surya-Ajay/test1/tree/master/0782-jewels-and-stones) |
+| [0904-fruit-into-baskets](https://github.com/Sam-Surya-Ajay/test1/tree/master/0904-fruit-into-baskets) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Sam-Surya-Ajay/test1/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Sam-Surya-Ajay/test1/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1039-find-the-town-judge](https://github.com/Sam-Surya-Ajay/test1/tree/master/1039-find-the-town-judge) |
@@ -555,6 +557,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sam-Surya-Ajay/test1/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Sam-Surya-Ajay/test1/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Sam-Surya-Ajay/test1/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/Sam-Surya-Ajay/test1/tree/master/0904-fruit-into-baskets) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Sam-Surya-Ajay/test1/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 ## Design
 |  |
