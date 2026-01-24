@@ -239,6 +239,7 @@
 | [0013-roman-to-integer](https://github.com/Sam-Surya-Ajay/test1/tree/master/0013-roman-to-integer) |
 | [0219-contains-duplicate-ii](https://github.com/Sam-Surya-Ajay/test1/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sam-Surya-Ajay/test1/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/Sam-Surya-Ajay/test1/tree/master/0424-longest-repeating-character-replacement) |
 | [0645-set-mismatch](https://github.com/Sam-Surya-Ajay/test1/tree/master/0645-set-mismatch) |
 | [0782-jewels-and-stones](https://github.com/Sam-Surya-Ajay/test1/tree/master/0782-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/Sam-Surya-Ajay/test1/tree/master/0904-fruit-into-baskets) |
@@ -369,6 +370,7 @@
 | [0344-reverse-string](https://github.com/Sam-Surya-Ajay/test1/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sam-Surya-Ajay/test1/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Sam-Surya-Ajay/test1/tree/master/0412-fizz-buzz) |
+| [0424-longest-repeating-character-replacement](https://github.com/Sam-Surya-Ajay/test1/tree/master/0424-longest-repeating-character-replacement) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sam-Surya-Ajay/test1/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/Sam-Surya-Ajay/test1/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/Sam-Surya-Ajay/test1/tree/master/0742-to-lower-case) |
@@ -556,6 +558,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sam-Surya-Ajay/test1/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Sam-Surya-Ajay/test1/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/Sam-Surya-Ajay/test1/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/Sam-Surya-Ajay/test1/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Sam-Surya-Ajay/test1/tree/master/0904-fruit-into-baskets) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Sam-Surya-Ajay/test1/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
