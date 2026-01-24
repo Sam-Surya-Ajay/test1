@@ -22,8 +22,6 @@ public:
             while((r-l+1)-maxchar > k)
             {
                 m[s[l]]--;
-                if(m[s[l]]==0)
-                   m.erase(s[l]);
                 l++;
 
                 for(auto it:m)
