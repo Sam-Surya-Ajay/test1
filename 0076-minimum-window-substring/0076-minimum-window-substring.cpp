@@ -44,7 +44,6 @@ public:
                     ans=s.substr(l,r-l+1);
                     len=ans.length();
                 }
-                
             }
         }
         return ans;
