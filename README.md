@@ -237,6 +237,7 @@
 | [0001-two-sum](https://github.com/Sam-Surya-Ajay/test1/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sam-Surya-Ajay/test1/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Sam-Surya-Ajay/test1/tree/master/0013-roman-to-integer) |
+| [0076-minimum-window-substring](https://github.com/Sam-Surya-Ajay/test1/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/Sam-Surya-Ajay/test1/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sam-Surya-Ajay/test1/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sam-Surya-Ajay/test1/tree/master/0424-longest-repeating-character-replacement) |
@@ -365,6 +366,7 @@
 | [0013-roman-to-integer](https://github.com/Sam-Surya-Ajay/test1/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Sam-Surya-Ajay/test1/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/Sam-Surya-Ajay/test1/tree/master/0022-generate-parentheses) |
+| [0076-minimum-window-substring](https://github.com/Sam-Surya-Ajay/test1/tree/master/0076-minimum-window-substring) |
 | [0171-excel-sheet-column-number](https://github.com/Sam-Surya-Ajay/test1/tree/master/0171-excel-sheet-column-number) |
 | [0257-binary-tree-paths](https://github.com/Sam-Surya-Ajay/test1/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Sam-Surya-Ajay/test1/tree/master/0344-reverse-string) |
@@ -557,6 +559,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sam-Surya-Ajay/test1/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Sam-Surya-Ajay/test1/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/Sam-Surya-Ajay/test1/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sam-Surya-Ajay/test1/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/Sam-Surya-Ajay/test1/tree/master/0643-maximum-average-subarray-i) |
