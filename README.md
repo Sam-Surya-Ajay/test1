@@ -94,6 +94,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sam-Surya-Ajay/test1/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Sam-Surya-Ajay/test1/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Sam-Surya-Ajay/test1/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/Sam-Surya-Ajay/test1/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Sam-Surya-Ajay/test1/tree/master/0048-rotate-image) |
@@ -219,6 +220,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sam-Surya-Ajay/test1/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/Sam-Surya-Ajay/test1/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/Sam-Surya-Ajay/test1/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sam-Surya-Ajay/test1/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -315,6 +317,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sam-Surya-Ajay/test1/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/Sam-Surya-Ajay/test1/tree/master/0605-can-place-flowers) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Sam-Surya-Ajay/test1/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Sam-Surya-Ajay/test1/tree/master/1047-maximize-sum-of-array-after-k-negations) |
