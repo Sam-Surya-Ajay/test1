@@ -96,6 +96,7 @@
 | [0001-two-sum](https://github.com/Sam-Surya-Ajay/test1/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Sam-Surya-Ajay/test1/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Sam-Surya-Ajay/test1/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/Sam-Surya-Ajay/test1/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/Sam-Surya-Ajay/test1/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Sam-Surya-Ajay/test1/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Sam-Surya-Ajay/test1/tree/master/0066-plus-one) |
@@ -221,6 +222,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sam-Surya-Ajay/test1/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Sam-Surya-Ajay/test1/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Sam-Surya-Ajay/test1/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/Sam-Surya-Ajay/test1/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sam-Surya-Ajay/test1/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -337,6 +339,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Sam-Surya-Ajay/test1/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Sam-Surya-Ajay/test1/tree/master/0088-merge-sorted-array) |
 | [0414-third-maximum-number](https://github.com/Sam-Surya-Ajay/test1/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/Sam-Surya-Ajay/test1/tree/master/0506-relative-ranks) |
