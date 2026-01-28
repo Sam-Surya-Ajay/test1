@@ -14,7 +14,6 @@ public:
             {
                 if(abs((nums[i]+nums[l]+nums[r])-target) < diff)
                 {
-                    cout<<"HI "<<i<<" "<<l<<" "<<r<<'\n';
                     ans=nums[i]+nums[l]+nums[r];
                     diff=abs((nums[i]+nums[l]+nums[r])-target);
                     if(ans < target)
