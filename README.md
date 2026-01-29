@@ -99,6 +99,7 @@
 | [0015-3sum](https://github.com/Sam-Surya-Ajay/test1/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Sam-Surya-Ajay/test1/tree/master/0016-3sum-closest) |
 | [0035-search-insert-position](https://github.com/Sam-Surya-Ajay/test1/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/Sam-Surya-Ajay/test1/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Sam-Surya-Ajay/test1/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Sam-Surya-Ajay/test1/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Sam-Surya-Ajay/test1/tree/master/0088-merge-sorted-array) |
@@ -225,6 +226,7 @@
 | [0011-container-with-most-water](https://github.com/Sam-Surya-Ajay/test1/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Sam-Surya-Ajay/test1/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Sam-Surya-Ajay/test1/tree/master/0016-3sum-closest) |
+| [0042-trapping-rain-water](https://github.com/Sam-Surya-Ajay/test1/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Sam-Surya-Ajay/test1/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/Sam-Surya-Ajay/test1/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sam-Surya-Ajay/test1/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -600,6 +602,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Sam-Surya-Ajay/test1/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sam-Surya-Ajay/test1/tree/master/0094-binary-tree-inorder-traversal) |
 | [0654-maximum-binary-tree](https://github.com/Sam-Surya-Ajay/test1/tree/master/0654-maximum-binary-tree) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sam-Surya-Ajay/test1/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -620,6 +623,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Sam-Surya-Ajay/test1/tree/master/0042-trapping-rain-water) |
 | [0654-maximum-binary-tree](https://github.com/Sam-Surya-Ajay/test1/tree/master/0654-maximum-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sam-Surya-Ajay/test1/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
@@ -665,6 +669,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sam-Surya-Ajay/test1/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Sam-Surya-Ajay/test1/tree/master/0042-trapping-rain-water) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Sam-Surya-Ajay/test1/tree/master/1381-maximum-score-words-formed-by-letters) |
 ## Bitmask
 |  |
