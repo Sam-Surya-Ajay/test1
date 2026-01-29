@@ -3,7 +3,7 @@ class Solution
 public:
     int trap(vector<int>& height) 
     {
-        int ans=0, l=0, r=height.size()-1, lmax=height[0], rmax=height[height.size()-1];
+        int ans=0, l=0, r=height.size()-1, lmax=0, rmax=0;
 
 
         while(l<r)
