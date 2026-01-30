@@ -376,6 +376,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sam-Surya-Ajay/test1/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Sam-Surya-Ajay/test1/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Sam-Surya-Ajay/test1/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Sam-Surya-Ajay/test1/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Sam-Surya-Ajay/test1/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Sam-Surya-Ajay/test1/tree/master/0076-minimum-window-substring) |
 | [0171-excel-sheet-column-number](https://github.com/Sam-Surya-Ajay/test1/tree/master/0171-excel-sheet-column-number) |
@@ -602,6 +603,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Sam-Surya-Ajay/test1/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Sam-Surya-Ajay/test1/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sam-Surya-Ajay/test1/tree/master/0094-binary-tree-inorder-traversal) |
 | [0654-maximum-binary-tree](https://github.com/Sam-Surya-Ajay/test1/tree/master/0654-maximum-binary-tree) |
