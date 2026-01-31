@@ -116,6 +116,7 @@
 | [0661-image-smoother](https://github.com/Sam-Surya-Ajay/test1/tree/master/0661-image-smoother) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Sam-Surya-Ajay/test1/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Sam-Surya-Ajay/test1/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0739-daily-temperatures](https://github.com/Sam-Surya-Ajay/test1/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Sam-Surya-Ajay/test1/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Sam-Surya-Ajay/test1/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Sam-Surya-Ajay/test1/tree/master/0825-max-increase-to-keep-city-skyline) |
@@ -607,6 +608,7 @@
 | [0042-trapping-rain-water](https://github.com/Sam-Surya-Ajay/test1/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sam-Surya-Ajay/test1/tree/master/0094-binary-tree-inorder-traversal) |
 | [0654-maximum-binary-tree](https://github.com/Sam-Surya-Ajay/test1/tree/master/0654-maximum-binary-tree) |
+| [0739-daily-temperatures](https://github.com/Sam-Surya-Ajay/test1/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sam-Surya-Ajay/test1/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sam-Surya-Ajay/test1/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Sam-Surya-Ajay/test1/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -627,6 +629,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sam-Surya-Ajay/test1/tree/master/0042-trapping-rain-water) |
 | [0654-maximum-binary-tree](https://github.com/Sam-Surya-Ajay/test1/tree/master/0654-maximum-binary-tree) |
+| [0739-daily-temperatures](https://github.com/Sam-Surya-Ajay/test1/tree/master/0739-daily-temperatures) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sam-Surya-Ajay/test1/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
