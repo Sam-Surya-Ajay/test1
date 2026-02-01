@@ -106,6 +106,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Sam-Surya-Ajay/test1/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Sam-Surya-Ajay/test1/tree/master/0228-summary-ranges) |
 | [0414-third-maximum-number](https://github.com/Sam-Surya-Ajay/test1/tree/master/0414-third-maximum-number) |
+| [0496-next-greater-element-i](https://github.com/Sam-Surya-Ajay/test1/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/Sam-Surya-Ajay/test1/tree/master/0506-relative-ranks) |
 | [0566-reshape-the-matrix](https://github.com/Sam-Surya-Ajay/test1/tree/master/0566-reshape-the-matrix) |
 | [0605-can-place-flowers](https://github.com/Sam-Surya-Ajay/test1/tree/master/0605-can-place-flowers) |
@@ -250,6 +251,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Sam-Surya-Ajay/test1/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sam-Surya-Ajay/test1/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sam-Surya-Ajay/test1/tree/master/0424-longest-repeating-character-replacement) |
+| [0496-next-greater-element-i](https://github.com/Sam-Surya-Ajay/test1/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/Sam-Surya-Ajay/test1/tree/master/0645-set-mismatch) |
 | [0782-jewels-and-stones](https://github.com/Sam-Surya-Ajay/test1/tree/master/0782-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/Sam-Surya-Ajay/test1/tree/master/0904-fruit-into-baskets) |
@@ -607,6 +609,7 @@
 | [0020-valid-parentheses](https://github.com/Sam-Surya-Ajay/test1/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Sam-Surya-Ajay/test1/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sam-Surya-Ajay/test1/tree/master/0094-binary-tree-inorder-traversal) |
+| [0496-next-greater-element-i](https://github.com/Sam-Surya-Ajay/test1/tree/master/0496-next-greater-element-i) |
 | [0654-maximum-binary-tree](https://github.com/Sam-Surya-Ajay/test1/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/Sam-Surya-Ajay/test1/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sam-Surya-Ajay/test1/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -628,6 +631,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sam-Surya-Ajay/test1/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Sam-Surya-Ajay/test1/tree/master/0496-next-greater-element-i) |
 | [0654-maximum-binary-tree](https://github.com/Sam-Surya-Ajay/test1/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/Sam-Surya-Ajay/test1/tree/master/0739-daily-temperatures) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sam-Surya-Ajay/test1/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
