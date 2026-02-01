@@ -5,7 +5,7 @@ public:
     {
         vector<int> ans;
         stack<int> st;
-        map<int, int> mp;
+        unordered_map<int, int> mp;
 
         for(int i=0; i<nums2.size(); i++)
         {
