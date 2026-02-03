@@ -583,6 +583,7 @@
 ## Design
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/Sam-Surya-Ajay/test1/tree/master/0901-online-stock-span) |
 | [1572-subrectangle-queries](https://github.com/Sam-Surya-Ajay/test1/tree/master/1572-subrectangle-queries) |
 | [1775-design-an-ordered-stream](https://github.com/Sam-Surya-Ajay/test1/tree/master/1775-design-an-ordered-stream) |
 | [3516-design-neighbor-sum-service](https://github.com/Sam-Surya-Ajay/test1/tree/master/3516-design-neighbor-sum-service) |
@@ -612,6 +613,7 @@
 | [0496-next-greater-element-i](https://github.com/Sam-Surya-Ajay/test1/tree/master/0496-next-greater-element-i) |
 | [0654-maximum-binary-tree](https://github.com/Sam-Surya-Ajay/test1/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/Sam-Surya-Ajay/test1/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Sam-Surya-Ajay/test1/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sam-Surya-Ajay/test1/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sam-Surya-Ajay/test1/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Sam-Surya-Ajay/test1/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -634,6 +636,7 @@
 | [0496-next-greater-element-i](https://github.com/Sam-Surya-Ajay/test1/tree/master/0496-next-greater-element-i) |
 | [0654-maximum-binary-tree](https://github.com/Sam-Surya-Ajay/test1/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/Sam-Surya-Ajay/test1/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Sam-Surya-Ajay/test1/tree/master/0901-online-stock-span) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sam-Surya-Ajay/test1/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
@@ -649,6 +652,7 @@
 ## Data Stream
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/Sam-Surya-Ajay/test1/tree/master/0901-online-stock-span) |
 | [1775-design-an-ordered-stream](https://github.com/Sam-Surya-Ajay/test1/tree/master/1775-design-an-ordered-stream) |
 ## Game Theory
 |  |
