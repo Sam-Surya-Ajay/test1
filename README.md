@@ -102,6 +102,7 @@
 | [0042-trapping-rain-water](https://github.com/Sam-Surya-Ajay/test1/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Sam-Surya-Ajay/test1/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Sam-Surya-Ajay/test1/tree/master/0066-plus-one) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Sam-Surya-Ajay/test1/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Sam-Surya-Ajay/test1/tree/master/0088-merge-sorted-array) |
 | [0219-contains-duplicate-ii](https://github.com/Sam-Surya-Ajay/test1/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Sam-Surya-Ajay/test1/tree/master/0228-summary-ranges) |
@@ -609,6 +610,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sam-Surya-Ajay/test1/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Sam-Surya-Ajay/test1/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Sam-Surya-Ajay/test1/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sam-Surya-Ajay/test1/tree/master/0094-binary-tree-inorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/Sam-Surya-Ajay/test1/tree/master/0496-next-greater-element-i) |
 | [0654-maximum-binary-tree](https://github.com/Sam-Surya-Ajay/test1/tree/master/0654-maximum-binary-tree) |
@@ -633,6 +635,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sam-Surya-Ajay/test1/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Sam-Surya-Ajay/test1/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Sam-Surya-Ajay/test1/tree/master/0496-next-greater-element-i) |
 | [0654-maximum-binary-tree](https://github.com/Sam-Surya-Ajay/test1/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/Sam-Surya-Ajay/test1/tree/master/0739-daily-temperatures) |
