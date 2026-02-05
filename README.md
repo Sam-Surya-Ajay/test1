@@ -98,6 +98,7 @@
 | [0014-longest-common-prefix](https://github.com/Sam-Surya-Ajay/test1/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Sam-Surya-Ajay/test1/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Sam-Surya-Ajay/test1/tree/master/0016-3sum-closest) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Sam-Surya-Ajay/test1/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sam-Surya-Ajay/test1/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Sam-Surya-Ajay/test1/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Sam-Surya-Ajay/test1/tree/master/0048-rotate-image) |
@@ -219,6 +220,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Sam-Surya-Ajay/test1/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sam-Surya-Ajay/test1/tree/master/0035-search-insert-position) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Sam-Surya-Ajay/test1/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sam-Surya-Ajay/test1/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
