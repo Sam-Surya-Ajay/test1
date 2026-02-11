@@ -131,6 +131,7 @@
 | [0944-delete-columns-to-make-sorted](https://github.com/Sam-Surya-Ajay/test1/tree/master/0944-delete-columns-to-make-sorted) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Sam-Surya-Ajay/test1/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Sam-Surya-Ajay/test1/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sam-Surya-Ajay/test1/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1022-unique-paths-iii](https://github.com/Sam-Surya-Ajay/test1/tree/master/1022-unique-paths-iii) |
 | [1031-add-to-array-form-of-integer](https://github.com/Sam-Surya-Ajay/test1/tree/master/1031-add-to-array-form-of-integer) |
 | [1039-find-the-town-judge](https://github.com/Sam-Surya-Ajay/test1/tree/master/1039-find-the-town-judge) |
@@ -229,6 +230,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sam-Surya-Ajay/test1/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Sam-Surya-Ajay/test1/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Sam-Surya-Ajay/test1/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sam-Surya-Ajay/test1/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sam-Surya-Ajay/test1/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3477-fruits-into-baskets-ii](https://github.com/Sam-Surya-Ajay/test1/tree/master/3477-fruits-into-baskets-ii) |
 ## Two Pointers
