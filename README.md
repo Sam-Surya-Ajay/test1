@@ -638,6 +638,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sam-Surya-Ajay/test1/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Sam-Surya-Ajay/test1/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Sam-Surya-Ajay/test1/tree/master/0257-binary-tree-paths) |
+| [0543-diameter-of-binary-tree](https://github.com/Sam-Surya-Ajay/test1/tree/master/0543-diameter-of-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/Sam-Surya-Ajay/test1/tree/master/0654-maximum-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Sam-Surya-Ajay/test1/tree/master/0783-search-in-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Sam-Surya-Ajay/test1/tree/master/0975-range-sum-of-bst) |
@@ -661,6 +662,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sam-Surya-Ajay/test1/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Sam-Surya-Ajay/test1/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Sam-Surya-Ajay/test1/tree/master/0257-binary-tree-paths) |
+| [0543-diameter-of-binary-tree](https://github.com/Sam-Surya-Ajay/test1/tree/master/0543-diameter-of-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/Sam-Surya-Ajay/test1/tree/master/0654-maximum-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Sam-Surya-Ajay/test1/tree/master/0783-search-in-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Sam-Surya-Ajay/test1/tree/master/0975-range-sum-of-bst) |
@@ -718,6 +720,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sam-Surya-Ajay/test1/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Sam-Surya-Ajay/test1/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Sam-Surya-Ajay/test1/tree/master/0257-binary-tree-paths) |
+| [0543-diameter-of-binary-tree](https://github.com/Sam-Surya-Ajay/test1/tree/master/0543-diameter-of-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/Sam-Surya-Ajay/test1/tree/master/0975-range-sum-of-bst) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Sam-Surya-Ajay/test1/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Trie
