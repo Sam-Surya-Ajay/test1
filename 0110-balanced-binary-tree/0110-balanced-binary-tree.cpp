@@ -12,7 +12,6 @@
 class Solution 
 {
 public:
-    bool ans=true;
     int check(TreeNode* root)
     {
         if(root==NULL)
@@ -21,17 +20,18 @@ public:
         int left=check(root->left);
         int right=check(root->right);
 
+        if(left==-1 || right==-1)
+           return -1;
+        
         if(abs(left-right)>1)
         {
-            ans=false;
-            return 0;
+            return -1;
         }
           
         return 1+max(left, right);
     }
     bool isBalanced(TreeNode* root) 
     {
-        check(root);
-        return ans;
+        return check(root)!=-1;
     }
 };
