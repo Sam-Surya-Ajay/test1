@@ -12,14 +12,15 @@
 class Solution 
 {
 public:
-    queue<TreeNode*> q;
-    vector<int> ans;
     vector<int> rightSideView(TreeNode* root) 
     {
+
+       vector<int> ans;
        if(root==NULL)
-       {
-          return ans;
-       }
+        return ans;
+       
+       queue<TreeNode*> q;
+       
        q.push(root);
 
        while(!q.empty())
