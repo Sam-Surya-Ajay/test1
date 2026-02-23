@@ -640,6 +640,7 @@
 | [0112-path-sum](https://github.com/Sam-Surya-Ajay/test1/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Sam-Surya-Ajay/test1/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Sam-Surya-Ajay/test1/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sam-Surya-Ajay/test1/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Sam-Surya-Ajay/test1/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Sam-Surya-Ajay/test1/tree/master/0543-diameter-of-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/Sam-Surya-Ajay/test1/tree/master/0654-maximum-binary-tree) |
@@ -667,6 +668,7 @@
 | [0112-path-sum](https://github.com/Sam-Surya-Ajay/test1/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Sam-Surya-Ajay/test1/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Sam-Surya-Ajay/test1/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sam-Surya-Ajay/test1/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Sam-Surya-Ajay/test1/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Sam-Surya-Ajay/test1/tree/master/0543-diameter-of-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/Sam-Surya-Ajay/test1/tree/master/0654-maximum-binary-tree) |
@@ -728,6 +730,7 @@
 | [0112-path-sum](https://github.com/Sam-Surya-Ajay/test1/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Sam-Surya-Ajay/test1/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Sam-Surya-Ajay/test1/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sam-Surya-Ajay/test1/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Sam-Surya-Ajay/test1/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Sam-Surya-Ajay/test1/tree/master/0543-diameter-of-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/Sam-Surya-Ajay/test1/tree/master/0975-range-sum-of-bst) |
