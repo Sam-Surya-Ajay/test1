@@ -107,6 +107,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/Sam-Surya-Ajay/test1/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Sam-Surya-Ajay/test1/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sam-Surya-Ajay/test1/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0200-number-of-islands](https://github.com/Sam-Surya-Ajay/test1/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/Sam-Surya-Ajay/test1/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Sam-Surya-Ajay/test1/tree/master/0228-summary-ranges) |
 | [0414-third-maximum-number](https://github.com/Sam-Surya-Ajay/test1/tree/master/0414-third-maximum-number) |
@@ -311,6 +312,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Sam-Surya-Ajay/test1/tree/master/0048-rotate-image) |
+| [0200-number-of-islands](https://github.com/Sam-Surya-Ajay/test1/tree/master/0200-number-of-islands) |
 | [0566-reshape-the-matrix](https://github.com/Sam-Surya-Ajay/test1/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/Sam-Surya-Ajay/test1/tree/master/0661-image-smoother) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Sam-Surya-Ajay/test1/tree/master/0825-max-increase-to-keep-city-skyline) |
@@ -742,6 +744,7 @@
 | [0112-path-sum](https://github.com/Sam-Surya-Ajay/test1/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sam-Surya-Ajay/test1/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Sam-Surya-Ajay/test1/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Sam-Surya-Ajay/test1/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Sam-Surya-Ajay/test1/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sam-Surya-Ajay/test1/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Sam-Surya-Ajay/test1/tree/master/0257-binary-tree-paths) |
@@ -762,6 +765,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sam-Surya-Ajay/test1/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Sam-Surya-Ajay/test1/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Sam-Surya-Ajay/test1/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Sam-Surya-Ajay/test1/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Sam-Surya-Ajay/test1/tree/master/0226-invert-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Sam-Surya-Ajay/test1/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Segment Tree
@@ -776,4 +780,8 @@
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Sam-Surya-Ajay/test1/tree/master/3483-unique-3-digit-even-numbers) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Sam-Surya-Ajay/test1/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
