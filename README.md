@@ -113,6 +113,7 @@
 | [0414-third-maximum-number](https://github.com/Sam-Surya-Ajay/test1/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/Sam-Surya-Ajay/test1/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/Sam-Surya-Ajay/test1/tree/master/0506-relative-ranks) |
+| [0542-01-matrix](https://github.com/Sam-Surya-Ajay/test1/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/Sam-Surya-Ajay/test1/tree/master/0566-reshape-the-matrix) |
 | [0605-can-place-flowers](https://github.com/Sam-Surya-Ajay/test1/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sam-Surya-Ajay/test1/tree/master/0628-maximum-product-of-three-numbers) |
@@ -316,6 +317,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Sam-Surya-Ajay/test1/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/Sam-Surya-Ajay/test1/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/Sam-Surya-Ajay/test1/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/Sam-Surya-Ajay/test1/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/Sam-Surya-Ajay/test1/tree/master/0661-image-smoother) |
 | [0695-max-area-of-island](https://github.com/Sam-Surya-Ajay/test1/tree/master/0695-max-area-of-island) |
@@ -727,6 +729,7 @@
 | [0022-generate-parentheses](https://github.com/Sam-Surya-Ajay/test1/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Sam-Surya-Ajay/test1/tree/master/0042-trapping-rain-water) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sam-Surya-Ajay/test1/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0542-01-matrix](https://github.com/Sam-Surya-Ajay/test1/tree/master/0542-01-matrix) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/Sam-Surya-Ajay/test1/tree/master/1381-maximum-score-words-formed-by-letters) |
 ## Bitmask
 |  |
@@ -775,6 +778,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Sam-Surya-Ajay/test1/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Sam-Surya-Ajay/test1/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Sam-Surya-Ajay/test1/tree/master/0226-invert-binary-tree) |
+| [0542-01-matrix](https://github.com/Sam-Surya-Ajay/test1/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Sam-Surya-Ajay/test1/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Sam-Surya-Ajay/test1/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Sam-Surya-Ajay/test1/tree/master/0994-rotting-oranges) |
