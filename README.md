@@ -222,6 +222,7 @@
 | [3731-find-missing-elements](https://github.com/Sam-Surya-Ajay/test1/tree/master/3731-find-missing-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Sam-Surya-Ajay/test1/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3778-transform-array-by-parity](https://github.com/Sam-Surya-Ajay/test1/tree/master/3778-transform-array-by-parity) |
+| [3838-weighted-word-mapping](https://github.com/Sam-Surya-Ajay/test1/tree/master/3838-weighted-word-mapping) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sam-Surya-Ajay/test1/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sam-Surya-Ajay/test1/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [4058-compute-alternating-sum](https://github.com/Sam-Surya-Ajay/test1/tree/master/4058-compute-alternating-sum) |
@@ -473,6 +474,7 @@
 | [3567-convert-date-to-binary](https://github.com/Sam-Surya-Ajay/test1/tree/master/3567-convert-date-to-binary) |
 | [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/Sam-Surya-Ajay/test1/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Sam-Surya-Ajay/test1/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
+| [3838-weighted-word-mapping](https://github.com/Sam-Surya-Ajay/test1/tree/master/3838-weighted-word-mapping) |
 ## Counting
 |  |
 | ------- |
@@ -518,6 +520,7 @@
 | [3516-design-neighbor-sum-service](https://github.com/Sam-Surya-Ajay/test1/tree/master/3516-design-neighbor-sum-service) |
 | [3533-snake-in-matrix](https://github.com/Sam-Surya-Ajay/test1/tree/master/3533-snake-in-matrix) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Sam-Surya-Ajay/test1/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3838-weighted-word-mapping](https://github.com/Sam-Surya-Ajay/test1/tree/master/3838-weighted-word-mapping) |
 | [4058-compute-alternating-sum](https://github.com/Sam-Surya-Ajay/test1/tree/master/4058-compute-alternating-sum) |
 ## Math
 |  |
