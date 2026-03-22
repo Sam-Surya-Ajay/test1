@@ -258,6 +258,7 @@
 | [2697-lexicographically-smallest-palindrome](https://github.com/Sam-Surya-Ajay/test1/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Sam-Surya-Ajay/test1/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Sam-Surya-Ajay/test1/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
+| [3794-reverse-string-prefix](https://github.com/Sam-Surya-Ajay/test1/tree/master/3794-reverse-string-prefix) |
 ## Hash Table
 |  |
 | ------- |
@@ -474,6 +475,7 @@
 | [3567-convert-date-to-binary](https://github.com/Sam-Surya-Ajay/test1/tree/master/3567-convert-date-to-binary) |
 | [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/Sam-Surya-Ajay/test1/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Sam-Surya-Ajay/test1/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
+| [3794-reverse-string-prefix](https://github.com/Sam-Surya-Ajay/test1/tree/master/3794-reverse-string-prefix) |
 | [3838-weighted-word-mapping](https://github.com/Sam-Surya-Ajay/test1/tree/master/3838-weighted-word-mapping) |
 ## Counting
 |  |
