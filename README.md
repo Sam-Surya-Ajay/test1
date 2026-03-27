@@ -469,6 +469,7 @@
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Sam-Surya-Ajay/test1/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3174-clear-digits](https://github.com/Sam-Surya-Ajay/test1/tree/master/3174-clear-digits) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Sam-Surya-Ajay/test1/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Sam-Surya-Ajay/test1/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3340-check-balanced-string](https://github.com/Sam-Surya-Ajay/test1/tree/master/3340-check-balanced-string) |
 | [3379-score-of-a-string](https://github.com/Sam-Surya-Ajay/test1/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Sam-Surya-Ajay/test1/tree/master/3412-permutation-difference-between-two-strings) |
@@ -558,6 +559,7 @@
 | [2831-number-of-beautiful-pairs](https://github.com/Sam-Surya-Ajay/test1/tree/master/2831-number-of-beautiful-pairs) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sam-Surya-Ajay/test1/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3055-maximum-odd-binary-number](https://github.com/Sam-Surya-Ajay/test1/tree/master/3055-maximum-odd-binary-number) |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Sam-Surya-Ajay/test1/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Sam-Surya-Ajay/test1/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sam-Surya-Ajay/test1/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Sam-Surya-Ajay/test1/tree/master/3515-find-if-digit-game-can-be-won) |
