@@ -470,6 +470,7 @@
 | [3174-clear-digits](https://github.com/Sam-Surya-Ajay/test1/tree/master/3174-clear-digits) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Sam-Surya-Ajay/test1/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Sam-Surya-Ajay/test1/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
+| [3330-find-the-original-typed-string-i](https://github.com/Sam-Surya-Ajay/test1/tree/master/3330-find-the-original-typed-string-i) |
 | [3340-check-balanced-string](https://github.com/Sam-Surya-Ajay/test1/tree/master/3340-check-balanced-string) |
 | [3379-score-of-a-string](https://github.com/Sam-Surya-Ajay/test1/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Sam-Surya-Ajay/test1/tree/master/3412-permutation-difference-between-two-strings) |
