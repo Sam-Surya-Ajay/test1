@@ -271,6 +271,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Sam-Surya-Ajay/test1/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sam-Surya-Ajay/test1/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Sam-Surya-Ajay/test1/tree/master/0496-next-greater-element-i) |
+| [0535-encode-and-decode-tinyurl](https://github.com/Sam-Surya-Ajay/test1/tree/master/0535-encode-and-decode-tinyurl) |
 | [0645-set-mismatch](https://github.com/Sam-Surya-Ajay/test1/tree/master/0645-set-mismatch) |
 | [0782-jewels-and-stones](https://github.com/Sam-Surya-Ajay/test1/tree/master/0782-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/Sam-Surya-Ajay/test1/tree/master/0904-fruit-into-baskets) |
@@ -415,6 +416,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Sam-Surya-Ajay/test1/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Sam-Surya-Ajay/test1/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sam-Surya-Ajay/test1/tree/master/0424-longest-repeating-character-replacement) |
+| [0535-encode-and-decode-tinyurl](https://github.com/Sam-Surya-Ajay/test1/tree/master/0535-encode-and-decode-tinyurl) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sam-Surya-Ajay/test1/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/Sam-Surya-Ajay/test1/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/Sam-Surya-Ajay/test1/tree/master/0742-to-lower-case) |
@@ -621,6 +623,7 @@
 ## Design
 |  |
 | ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/Sam-Surya-Ajay/test1/tree/master/0535-encode-and-decode-tinyurl) |
 | [0901-online-stock-span](https://github.com/Sam-Surya-Ajay/test1/tree/master/0901-online-stock-span) |
 | [1572-subrectangle-queries](https://github.com/Sam-Surya-Ajay/test1/tree/master/1572-subrectangle-queries) |
 | [1775-design-an-ordered-stream](https://github.com/Sam-Surya-Ajay/test1/tree/master/1775-design-an-ordered-stream) |
@@ -835,4 +838,8 @@
 | ------- |
 | [0207-course-schedule](https://github.com/Sam-Surya-Ajay/test1/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Sam-Surya-Ajay/test1/tree/master/0210-course-schedule-ii) |
+## Hash Function
+|  |
+| ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/Sam-Surya-Ajay/test1/tree/master/0535-encode-and-decode-tinyurl) |
 <!---LeetCode Topics End-->
